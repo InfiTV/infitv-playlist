@@ -8,8 +8,7 @@ Merci infiniment d'avoir choisi InfiTV.
 Pour avoir accès à la notice d'utilisation il vous suffit de cliquer sur ce lien : ( https://drive.google.com/file/d/1vH-bfWS6k3d3fubFv6k1WhwWsLYuNyop/view?usp=sharing )
 
 Profitez bien
-
-
+ 
+ 
 Cordialement
-
-InfiTV
+ InfiTV
