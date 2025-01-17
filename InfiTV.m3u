@@ -1,4 +1,14 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="BOOMERANGHD.fr",BOOMERANG HD
+http://lunar.pm:8080/1915WMAIN/WqSc8ZaqdG/121492
+#EXTINF:-1 tvg-id="NICKELODEONHD.fr",NICKELODEON HD
+http://lunar.pm:8080/1915WMAIN/WqSc8ZaqdG/121646
+#EXTINF:-1 tvg-id="NICKELODEONJR.fr",NICKELODEON JR HD
+http://lunar.pm:8080/1915WMAIN/WqSc8ZaqdG/121647
+#EXTINF:-1 tvg-id="NICKELODEONTEEN.fr",NICKELODEON TEEN HD
+http://lunar.pm:8080/1915WMAIN/WqSc8ZaqdG/121648
+#EXTINF:-1 tvg-id="NRJ12.fr",NRJ12 HD
+http://lunar.pm:8080/1915WMAIN/WqSc8ZaqdG/121653
 #EXTINF:-1 tvg-id="C8.fr"  tvg-logo="https://i.imgur.com/40mdgqQ.png",C8 HD
 http://lunar.pm:8080/1915WMAIN/WqSc8ZaqdG/121495
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xqMPP7j/famclub.png",FAMILY CLUB
