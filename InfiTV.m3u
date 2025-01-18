@@ -1,44 +1,4 @@
 #EXTM3U
-#EXTINF:-1 ,FR: TFI
-http://lunar.pm:8080/1915WMAIN/WqSc8ZaqdG/121710
-#EXTINF:-1 ,FR: TMC
-http://lunar.pm:8080/1915WMAIN/WqSc8ZaqdG/121715
-#EXTINF:-1 ,CANAL+ PL
-http://lunar.pm:8080/1915WMAIN/WqSc8ZaqdG/121532
-#EXTINF:-1 ,CANAL+ SERIES HD
-http://lunar.pm:8080/1915WMAIN/WqSc8ZaqdG/121535
-#EXTINF:-1 ,CANAL+ SPORT HD
-http://lunar.pm:8080/1915WMAIN/WqSc8ZaqdG/121537
-#EXTINF:-1 tvg-id="CARTOONNETWORKHD.fr",CARTOON NETWORK HD
-http://lunar.pm:8080/1915WMAIN/WqSc8ZaqdG/121541
-#EXTINF:-1 tvg-id="DISNEYCHANNEL.fr",DISNEY CHANNEL HD
-http://lunar.pm:8080/1915WMAIN/WqSc8ZaqdG/121573
-#EXTINF:-1 tvg-id="DISNEYCHANNEL+1HD.fr",DISNEY CHANNEL+1 HD
-http://lunar.pm:8080/1915WMAIN/WqSc8ZaqdG/121575
-#EXTINF:-1 tvg-id="DISNEYJUNIORHD.fr",DISNEY JUNIOR HD
-http://lunar.pm:8080/1915WMAIN/WqSc8ZaqdG/121578
-#EXTINF:-1 tvg-id="CANAL+MOTOGP.fr",CANAL+ MOTOGP
-http://lunar.pm:8080/1915WMAIN/WqSc8ZaqdG/121531
-#EXTINF:-1 tvg-id="CANAL+KIDSHD.fr",CANAL+ KIDS HD
-http://lunar.pm:8080/1915WMAIN/WqSc8ZaqdG/121529
-#EXTINF:-1 tvg-id="CANAL+HD.fr",CANAL+ HD
-http://lunar.pm:8080/1915WMAIN/WqSc8ZaqdG/121528
-#EXTINF:-1 tvg-id="CANAL+CINEMAHD.fr",CANAL+ CINEMA HD
-http://lunar.pm:8080/1915WMAIN/WqSc8ZaqdG/121520
-#EXTINF:-1 tvg-id="CSTARHD.fr",C STAR HD
-http://lunar.pm:8080/1915WMAIN/WqSc8ZaqdG/121494
-#EXTINF:-1 tvg-id="BOOMERANGHD.fr",BOOMERANG HD
-http://lunar.pm:8080/1915WMAIN/WqSc8ZaqdG/121492
-#EXTINF:-1 tvg-id="NICKELODEONHD.fr",NICKELODEON HD
-http://lunar.pm:8080/1915WMAIN/WqSc8ZaqdG/121646
-#EXTINF:-1 tvg-id="NICKELODEONJR.fr",NICKELODEON JR HD
-http://lunar.pm:8080/1915WMAIN/WqSc8ZaqdG/121647
-#EXTINF:-1 tvg-id="NICKELODEONTEEN.fr",NICKELODEON TEEN HD
-http://lunar.pm:8080/1915WMAIN/WqSc8ZaqdG/121648
-#EXTINF:-1 tvg-id="NRJ12.fr",NRJ12 HD
-http://lunar.pm:8080/1915WMAIN/WqSc8ZaqdG/121653
-#EXTINF:-1 tvg-id="C8.fr"  tvg-logo="https://i.imgur.com/40mdgqQ.png",C8 HD
-http://lunar.pm:8080/1915WMAIN/WqSc8ZaqdG/121495
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xqMPP7j/famclub.png",FAMILY CLUB
 https://d3kwy5wwq7dpr1.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-5ty5rugo8lr9f/famcl.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/M9XhS35/filmsfr.jpg",FILMS FRANÇAIS
