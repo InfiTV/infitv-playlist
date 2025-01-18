@@ -2,13 +2,13 @@
 #EXTINF:<group-title="TV FR">
 #EXTINF:<group-title="BEIN SPORTS FR">
 #EXTINF:<group-title="AB FR">
-#EXTINF:0 group-title="AB FR",AB 1 HD
+#EXTINF:0 group-title="AB FR", AB 1 HD
 #EXTVLCOPT:network-caching=10
 http://lunar.pm:8080/1915WMAIN/WqSc8ZaqdG/121445
-#EXTINF:0 group-title="AB FR",AB 3 HD
+#EXTINF:0 group-title="AB FR", AB 3 HD
 #EXTVLCOPT:network-caching=10
 http://lunar.pm:8080/1915WMAIN/WqSc8ZaqdG/121446
-#EXTINF:0 group-title="TV FR",13 EME RUE HD
+#EXTINF:0 group-title="TV FR", 13 EME RUE HD
 #EXTVLCOPT:network-caching=10
 http://lunar.pm:8080/1915WMAIN/WqSc8ZaqdG/121433
 #EXTINF:-1 tvg-id="CANAL+PL.fr",CANAL+ PL
