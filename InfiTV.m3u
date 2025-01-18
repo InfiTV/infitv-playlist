@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="01TV.fr" tvg-logo="http://gratuittv.free.fr/Files/01tv/live/01TV.png",01 TV
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/embed/video/x7pctg0?tab_embed.m3u8
 #EXTINF:-1 tvg-id="NRJ12.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/4/44/NRJ12-Logo.png",NRJ 12
 http://viprtea.top:8080/live/VIP011171731504833260/d63a08a0eee7/429.ts
 #EXTINF:-1 tvg-id="C8.fr" tvg-logo="https://i.imgur.com/LXhXF8l.png",C8
