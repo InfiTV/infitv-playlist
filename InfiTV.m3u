@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="NRJ 12" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/NRJ12_logo_2015.svg/749px-NRJ12_logo_2015.svg.png" tvg-id="NRJ12.fr" group-title="France",NRJ 12
+http://gratuittv.free.fr/Files/nrj12/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LXhXF8l.png",C8
 http://gratuittv.free.fr/Files/c8/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xqMPP7j/famclub.png",FAMILY CLUB
