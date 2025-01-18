@@ -2,7 +2,7 @@
 #EXTINF:<group-title="TV FR">
 #EXTINF:<group-title="BEIN SPORTS FR">
 #EXTINF:<group-title="AB FR">
-#EXTINF:0 group-title="TV FR",13 EME RUE HD
+#EXTINF:-1 group-title="TV FR",13 EME RUE HD
 http://lunar.pm:8080/1915WMAIN/WqSc8ZaqdG/121433
 #EXTINF:-1 tvg-id="CANAL+PL.fr",CANAL+ PL
 http://lunar.pm:8080/1915WMAIN/WqSc8ZaqdG/121532
