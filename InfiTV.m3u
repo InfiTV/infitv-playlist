@@ -27,13 +27,11 @@ https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8
 https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Stream/Live/CNews.m3u8
 #EXTINF:-1 tvg-id="France24French.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/France24.png/640px-France24.png",France 24
 https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_5000.m3u8
-#EXTINF:-1 tvg-id="ILTV.fr",ILTV
-https://live.creacast.com/iltv/smil:iltv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="",L'Equipe Live 1
+#EXTINF:-1 tvg-logo="https://www.cjoint.com/doc/24_10/NJvsr6lUAfM_EQUIPE-LIVE-1.png",L'Equipe Live 1
 https://d3awaj0f2u3w26.cloudfront.net/4/media.m3u8
-#EXTINF:-1 tvg-id="",L'Equipe Live 2
+#EXTINF:-1 tvg-logo="https://www.planetecsat.com/wp-content/uploads/2023/04/bande-LequipeLive2.png",L'Equipe Live 2
 https://d2l55nvfkhk4sg.cloudfront.net/4/media.m3u8
-#EXTINF:-1 tvg-id="LEspritSorcierTV.fr",L'Esprit Sorcier TV
+#EXTINF:-1 tvg-id="LEspritSorcierTV.fr" tvg-logo="https://lespritsorcier.org/wp-content/themes/lespritsorcier/images/logo-lesprit-sorcier.png",L'Esprit Sorcier TV
 https://194270.global.ssl.fastly.net/63b43410861d94a9eee067fb/live_947330308dd911edb85c8181cb9b11a8/index.m3u8
 #EXTINF:-1 tvg-id="LeFigaroTVIledeFrance.fr",Le Figaro IDF
 https://figarotv-live.freecaster.com/live/freecaster/figarotv.m3u8
