@@ -11,39 +11,39 @@ https://01ac9352fbfa4204998783d41f9b1a2e.mediatailor.eu-west-1.amazonaws.com/v1/
 https://origin-caf900c010ea8046.live.6cloud.fr/out/v1/c65696b42ca34e97a9b5f54758d6dd50/cmaf/hlsfmp4_short_q2hyb21h_gulli_sd_index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ByN83p3/funradtv.png",FUN RADIO TV FR
 https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/funradiofr.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/LNRd253/w9.png",W9 (check)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LNRd253/w9.png",W9
 http://gratuittv.free.fr/Files/w9/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wgJTdGY/m6.png",M6 (test)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wgJTdGY/m6.png",M6
 http://gratuittv.free.fr/Files/m6/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/R3KG4L9/cherie25.png",CHÉRIE 25
 https://cherie25.nrjaudio.fm/hls/live/2038375/c25/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kckRLh5/bfm.png" group-title="|FR|🇫🇷 INFORMATION",BFM TV
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8?start=LIVE&end=END
-#EXTINF:-1 tvg-id="arte.fr",Arte (720p) [Geo-blocked]
+#EXTINF:-1 tvg-id="arte.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Arte_Logo_2017.svg/12px-Arte_Logo_2017.svg.png",Arte
 https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8
-#EXTINF:-1 tvg-id="CNews.fr" tvg-logo="https://i.imgur.com/UMRGAHx.png",CNews (1080p) [Geo-blocked]
+#EXTINF:-1 tvg-id="CNews.fr" tvg-logo="https://i.imgur.com/UMRGAHx.png",CNews
 https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Stream/Live/CNews.m3u8
-#EXTINF:-1 tvg-id="France24French.fr",France 24 French (1080p)
+#EXTINF:-1 tvg-id="France24French.fr",France 24
 https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_5000.m3u8
-#EXTINF:-1 tvg-id="ILTV.fr",ILTV (720p)
+#EXTINF:-1 tvg-id="ILTV.fr",ILTV
 https://live.creacast.com/iltv/smil:iltv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="",L'Equipe Live 1 (1080p)
+#EXTINF:-1 tvg-id="",L'Equipe Live 1
 https://d3awaj0f2u3w26.cloudfront.net/4/media.m3u8
-#EXTINF:-1 tvg-id="",L'Equipe Live 2 (1080p)
+#EXTINF:-1 tvg-id="",L'Equipe Live 2
 https://d2l55nvfkhk4sg.cloudfront.net/4/media.m3u8
-#EXTINF:-1 tvg-id="LEspritSorcierTV.fr",L'Esprit Sorcier TV (1080p)
+#EXTINF:-1 tvg-id="LEspritSorcierTV.fr",L'Esprit Sorcier TV
 https://194270.global.ssl.fastly.net/63b43410861d94a9eee067fb/live_947330308dd911edb85c8181cb9b11a8/index.m3u8
-#EXTINF:-1 tvg-id="LeFigaroTVIledeFrance.fr",Le Figaro IDF (1080p)
+#EXTINF:-1 tvg-id="LeFigaroTVIledeFrance.fr",Le Figaro IDF
 https://figarotv-live.freecaster.com/live/freecaster/figarotv.m3u8
-#EXTINF:-1 tvg-id="LeFigaroTVIledeFrance.fr",Le Figaro IDF (720p)
+#EXTINF:-1 tvg-id="LeFigaroTVIledeFrance.fr",Le Figaro IDF
 https://static.lefigaro.fr/secom/tnt.m3u8
-#EXTINF:-1 tvg-id="LittoralFMTV.fr",Littoral FM (720p)
+#EXTINF:-1 tvg-id="LittoralFMTV.fr",Littoral FM
 https://live.creacast.com/littoralfm-ch1/stream/playlist.m3u8
-#EXTINF:-1 tvg-id="MDL.fr",MDL (720p)
+#EXTINF:-1 tvg-id="MDL.fr",MDL
 http://tv.mondeduloisir.fr:1935/tixtv/smil:web.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="RMCDecouverte.fr",RMC Découverte (1080p)
+#EXTINF:-1 tvg-id="RMCDecouverte.fr",RMC Découverte
 https://d2mt8for1pddy4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6uronj7gzvy4j/index.m3u8
-#EXTINF:-1 tvg-id="RMCStory.fr",RMC Story (1080p)
+#EXTINF:-1 tvg-id="RMCStory.fr",RMC Story
 https://d36bxc1bknkxrk.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3ewcp19zjaxpt/index.m3u8
 #EXTINF:-1 tvg-id="SportenFrance.fr",Sport En France (1080p)
 https://sp1564435593.mytvchain.info/live/sp1564435593/index.m3u8
@@ -51,17 +51,17 @@ https://sp1564435593.mytvchain.info/live/sp1564435593/index.m3u8
 https://sp1564435593.mytvchain.info/live/sp1564435593_720/index.m3u8
 #EXTINF:-1 tvg-id="SportenFrance.fr",Sport En France (360p)
 https://sp1564435593.mytvchain.info/live/sp1564435593_360/index.m3u8
-#EXTINF:-1 tvg-id="Telenantes.fr",Télénantes (480p)
+#EXTINF:-1 tvg-id="Telenantes.fr",Télénantes
 https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/Telenantes.m3u8
-#EXTINF:-1 tvg-id="TF1.fr",TF1 (720p) [Geo-blocked]
+#EXTINF:-1 tvg-id="TF1.fr",TF1
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tf1.m3u8
-#EXTINF:-1 tvg-id="TFX.fr",TFX (720p) [Geo-blocked]
+#EXTINF:-1 tvg-id="TFX.fr",TFX
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tfx.m3u8
-#EXTINF:-1 tvg-id="TMC.fr",TMC (720p) [Geo-blocked]
+#EXTINF:-1 tvg-id="TMC.fr",TMC
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tmc.m3u8
 #EXTINF:-1 tvg-id="Caillou.fr",Caillou
 https://dhx-caillou-2-fr.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="WildSideTV.fr",Wildside TV (720p)
+#EXTINF:-1 tvg-id="WildSideTV.fr",Wildside TV
 https://versatile-wildsidetv-1-fr.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="",Adjugé vendu !
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64bab8ba5dc1660008969b5a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e06ff28-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=5c583725-776e-440c-a02f-17dca14750d3
