@@ -59,9 +59,7 @@ http://lunar.pm:8080/1915WMAIN/WqSc8ZaqdG/121602
 #EXTINF:-1 group-title="TNT TV" tvg-id="France24French.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/France24.png/640px-France24.png",France 24
 https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_5000.m3u8
 #EXTINF:-1 group-title="TNT TV" tvg-id="LeFigaroTVIledeFrance.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/f/f8/Le_Figaro_logo.svg/1280px-Le_Figaro_logo.svg.png",Le Figaro IDF
-https://figarotv-live.freecaster.com/live/freecaster/figarotv.m3u8
-#EXTINF:-1 #EXTINF:-1 tvg-id="MDL.fr",MDL
-http://tv.mondeduloisir.fr:1935/tixtv/smil:web.smil/playlist.m3u8 
+https://figarotv-live.freecaster.com/live/freecaster/figarotv.m3u8 
 #EXTINF:-1 group-title="TNT TV" tvg-logo="https://www.mondeduloisir.fr/wp-content/uploads/2016/07/Logo3_URL_Slogan_Noir_MICRO.png"tvg-id="MDL.fr",MDL
 http://tv.mondeduloisir.fr:1935/tixtv/smil:web.smil/playlist.m3u8
 #EXTINF:-1 group-title="CANAL+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Logo_Canal%2B_Cin%C3%A9ma_2009.svg/2560px-Logo_Canal%2B_Cin%C3%A9ma_2009.svg.png",Canal+ Cinéma
