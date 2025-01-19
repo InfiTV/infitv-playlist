@@ -14,9 +14,9 @@ http://viprtea.top:8080/live/VIP011171731504833260/d63a08a0eee7/418.ts?checkedby
 http://lunar.pm:8080/1915WMAIN/WqSc8ZaqdG/121601
 #EXTINF:-1 group-title="TNT TV" tvg-logo="https://i.ibb.co/wgJTdGY/m6.png",M6
 http://gratuittv.free.fr/Files/m6/live/playlist.m3u8
-#EXTINF:-1 tvg-id="arte.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Arte_Logo_2017.svg/12px-Arte_Logo_2017.svg.png",Arte
+#EXTINF:-1 group-title="TNT TV" tvg-id="arte.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Arte_Logo_2017.svg/12px-Arte_Logo_2017.svg.png",Arte
 https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8
-#EXTINF:-1 tvg-id="C8.fr" tvg-logo="https://i.imgur.com/LXhXF8l.png",C8
+#EXTINF:-1 group-title="TNT TV" tvg-id="C8.fr" tvg-logo="https://i.imgur.com/LXhXF8l.png",C8
 http://viprtea.top:8080/live/VIP011171731504833260/d63a08a0eee7/423.ts
 #EXTINF:-1 group-title="TNT TV" tvg-logo="https://i.ibb.co/LNRd253/w9.png",W9
 http://viprtea.top:8080/live/VIP011171731504833260/d63a08a0eee7/422.ts
