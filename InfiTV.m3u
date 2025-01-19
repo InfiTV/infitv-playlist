@@ -79,5 +79,5 @@ http://lunar.pm:8080/1915WMAIN/WqSc8ZaqdG/121645
 #EXTINF:-1 group-title="Dessin Animé" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Teletoon%2B.png/200px-Teletoon%2B.png",TELETOON+
 #EXTVLCOPT:network-caching=1000
 http://lunar.pm:8080/1915WMAIN/WqSc8ZaqdG/121703
-#EXTINF:-Films group-title="Movies" provider-type"MOVIES" tvg-id="matoc22147.cloudmatoc.com" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b0/Gladiator_II_logo.png", Gladiator II (2024)
+#EXTINF:-Films group-title="Movies" provider-type"Movies" tvg-id="matoc22147.cloudmatoc.com" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b0/Gladiator_II_logo.png", Gladiator II (2024)
 https://matoc22147.cloudmatoc.com/files/aa/vLGIMJdK54knoH7pKjlbHagMjxw2X8psT6a.m3u8
