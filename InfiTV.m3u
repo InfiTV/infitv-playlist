@@ -1,83 +1,83 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="TF1.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/TF1_logo_1990.svg/1200px-TF1_logo_1990.svg.png",TF1
+#EXTINF:-1 group-title="TNT TV" tvg-id="TF1.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/TF1_logo_1990.svg/1200px-TF1_logo_1990.svg.png",TF1
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tf1.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/France_2_logo.png",France 2
+#EXTINF:-1 group-title="TNT TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/France_2_logo.png",France 2
 #EXTVLCOPT:network-caching=1000
 http://lunar.pm:8080/1915WMAIN/WqSc8ZaqdG/121596
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France_3_logo.png",France 3
+#EXTINF:-1 group-title="TNT TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France_3_logo.png",France 3
 #EXTVLCOPT:network-caching=1000
 http://lunar.pm:8080/1915WMAIN/WqSc8ZaqdG/121598
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Logo_Canal%2B_1995.svg/2560px-Logo_Canal%2B_1995.svg.png",Canal+
+#EXTINF:-1 group-title="TNT TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Logo_Canal%2B_1995.svg/2560px-Logo_Canal%2B_1995.svg.png",Canal+
 http://viprtea.top:8080/live/VIP011171731504833260/d63a08a0eee7/418.ts?checkedby:gratuittv.free.fr
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/2/26/Logo_France_5.svg/1194px-Logo_France_5.svg.png",France 5
+#EXTINF:-1group-title="TNT TV"  tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/2/26/Logo_France_5.svg/1194px-Logo_France_5.svg.png",France 5
 #EXTVLCOPT:network-caching=1000
 http://lunar.pm:8080/1915WMAIN/WqSc8ZaqdG/121601
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wgJTdGY/m6.png",M6
+#EXTINF:-1 group-title="TNT TV" tvg-logo="https://i.ibb.co/wgJTdGY/m6.png",M6
 http://gratuittv.free.fr/Files/m6/live/playlist.m3u8
 #EXTINF:-1 tvg-id="arte.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Arte_Logo_2017.svg/12px-Arte_Logo_2017.svg.png",Arte
 https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8
 #EXTINF:-1 tvg-id="C8.fr" tvg-logo="https://i.imgur.com/LXhXF8l.png",C8
 http://viprtea.top:8080/live/VIP011171731504833260/d63a08a0eee7/423.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/LNRd253/w9.png",W9
+#EXTINF:-1 group-title="TNT TV" tvg-logo="https://i.ibb.co/LNRd253/w9.png",W9
 http://viprtea.top:8080/live/VIP011171731504833260/d63a08a0eee7/422.ts
-#EXTINF:-1 tvg-id="TMC.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/a/a8/TMC_logo_2016.svg/2560px-TMC_logo_2016.svg.png",TMC
+#EXTINF:-1 group-title="TNT TV" tvg-id="TMC.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/a/a8/TMC_logo_2016.svg/2560px-TMC_logo_2016.svg.png",TMC
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tmc.m3u8
-#EXTINF:-1 tvg-id="TFX.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/8/83/TFX_logo_2018.svg/2560px-TFX_logo_2018.svg.png",TFX
+#EXTINF:-1 group-title="TNT TV" tvg-id="TFX.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/8/83/TFX_logo_2018.svg/2560px-TFX_logo_2018.svg.png",TFX
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tfx.m3u8
-#EXTINF:-1 tvg-id="NRJ12.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/4/44/NRJ12-Logo.png",NRJ 12
+#EXTINF:-1 group-title="TNT TV" tvg-id="NRJ12.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/4/44/NRJ12-Logo.png",NRJ 12
 http://viprtea.top:8080/live/VIP011171731504833260/d63a08a0eee7/429.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kckRLh5/bfm.png",BFM TV
+#EXTINF:-1 group-title="TNT TV" tvg-logo="https://i.ibb.co/kckRLh5/bfm.png",BFM TV
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8?start=LIVE&end=END
-#EXTINF:-1 tvg-id="CNews.fr" tvg-logo="https://i.imgur.com/UMRGAHx.png",CNews
+#EXTINF:-1 group-title="TNT TV" tvg-id="CNews.fr" tvg-logo="https://i.imgur.com/UMRGAHx.png",CNews
 https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Stream/Live/CNews.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Logo_CStar_2016.svg/2560px-Logo_CStar_2016.svg.png",C Star
+#EXTINF:-1 group-title="TNT TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Logo_CStar_2016.svg/2560px-Logo_CStar_2016.svg.png",C Star
 http://viprtea.top:8080/live/VIP011171731504833260/d63a08a0eee7/435.ts?checkedby:gratuittv.free.fr
-#EXTINF:-1 tvg-logo="https://i.ibb.co/LQXjFc3/gulli.png",GULLI
+#EXTINF:-1 group-title="TNT TV" tvg-logo="https://i.ibb.co/LQXjFc3/gulli.png",GULLI
 https://origin-caf900c010ea8046.live.6cloud.fr/out/v1/c65696b42ca34e97a9b5f54758d6dd50/cmaf/hlsfmp4_short_q2hyb21h_gulli_sd_index.m3u8
-#EXTINF:-1 tvg-logo="https://www.cjoint.com/doc/24_10/NJvsr6lUAfM_EQUIPE-LIVE-1.png",L'Equipe Live 1
+#EXTINF:-1 group-title="TNT TV" tvg-logo="https://www.cjoint.com/doc/24_10/NJvsr6lUAfM_EQUIPE-LIVE-1.png",L'Equipe Live 1
 https://d3awaj0f2u3w26.cloudfront.net/4/media.m3u8
-#EXTINF:-1 tvg-logo="https://www.planetecsat.com/wp-content/uploads/2023/04/bande-LequipeLive2.png",L'Equipe Live 2
+#EXTINF:-1 group-title="TNT TV" tvg-logo="https://www.planetecsat.com/wp-content/uploads/2023/04/bande-LequipeLive2.png",L'Equipe Live 2
 https://d2l55nvfkhk4sg.cloudfront.net/4/media.m3u8
-#EXTINF:-1 tvg-id="6TER.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Logo_6ter_2016.svg/2560px-Logo_6ter_2016.svg.png",6TER
+#EXTINF:-1 group-title="TNT TV" tvg-id="6TER.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Logo_6ter_2016.svg/2560px-Logo_6ter_2016.svg.png",6TER
 http://viprtea.top:8080/live/VIP011171731504833260/d63a08a0eee7/430.ts?checkedby:gratuittv.free.fr
-#EXTINF:-1 tvg-id="RMCDecouverte.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/b/b3/RMC_D%C3%A9couverte_logo_2017.svg/2560px-RMC_D%C3%A9couverte_logo_2017.svg.png",RMC Découverte
+#EXTINF:-1 group-title="TNT TV" tvg-id="RMCDecouverte.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/b/b3/RMC_D%C3%A9couverte_logo_2017.svg/2560px-RMC_D%C3%A9couverte_logo_2017.svg.png",RMC Découverte
 https://d2mt8for1pddy4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6uronj7gzvy4j/index.m3u8
-#EXTINF:-1 tvg-id="RMCStory.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/3e/RMC_Story_logo_2018.svg/2560px-RMC_Story_logo_2018.svg.png",RMC Story
+#EXTINF:-1 group-title="TNT TV" tvg-id="RMCStory.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/3e/RMC_Story_logo_2018.svg/2560px-RMC_Story_logo_2018.svg.png",RMC Story
 https://d36bxc1bknkxrk.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3ewcp19zjaxpt/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/R3KG4L9/cherie25.png",CHÉRIE 25
+#EXTINF:-1 group-title="TNT TV" tvg-logo="https://i.ibb.co/R3KG4L9/cherie25.png",CHÉRIE 25
 https://cherie25.nrjaudio.fm/hls/live/2038375/c25/master.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/b/b4/LCI_logo_%282016%29.png/1200px-LCI_logo_%282016%29.png",LCI
+#EXTINF:-1 group-title="TNT TV" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/b/b4/LCI_logo_%282016%29.png/1200px-LCI_logo_%282016%29.png",LCI
 #EXTVLCOPT:network-caching=1000
 http://lunar.pm:8080/1915WMAIN/WqSc8ZaqdG/121621
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Franceinfo.svg/1280px-Franceinfo.svg.png",France Info
+#EXTINF:-1 group-title="TNT TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Franceinfo.svg/1280px-Franceinfo.svg.png",France Info
 #EXTVLCOPT:network-caching=1000
 http://lunar.pm:8080/1915WMAIN/WqSc8ZaqdG/121602
-#EXTINF:-1 tvg-id="France24French.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/France24.png/640px-France24.png",France 24
+#EXTINF:-1 group-title="TNT TV" tvg-id="France24French.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/France24.png/640px-France24.png",France 24
 https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_5000.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Logo_Canal%2B_Cin%C3%A9ma_2009.svg/2560px-Logo_Canal%2B_Cin%C3%A9ma_2009.svg.png",Canal+ Cinéma
+#EXTINF:-1 group-title="CANAL+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Logo_Canal%2B_Cin%C3%A9ma_2009.svg/2560px-Logo_Canal%2B_Cin%C3%A9ma_2009.svg.png",Canal+ Cinéma
 http://lunar.pm:8080/1915WMAIN/WqSc8ZaqdG/121518
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/Canal%2B_Docs.png",Canal+ Docs
+#EXTINF:-1 group-title="CANAL+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/Canal%2B_Docs.png",Canal+ Docs
 #EXTVLCOPT:network-caching=1000
 http://lunar.pm:8080/1915WMAIN/WqSc8ZaqdG/121522
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/Canal%2B_Kids.png",Canal+ Kids
+#EXTINF:-1 group-title="Dessin Animé" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/Canal%2B_Kids.png",Canal+ Kids
 http://lunar.pm:8080/1915WMAIN/WqSc8ZaqdG/121524
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Canal%2BFoot.png",Canal+ Foot
+#EXTINF:-1 group-title="CANAL+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Canal%2BFoot.png",Canal+ Foot
 #EXTVLCOPT:network-caching=1000
 http://lunar.pm:8080/1915WMAIN/WqSc8ZaqdG/121526
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Canal%2B_Sport_2015.png",Canal+ Sport
+#EXTINF:-1 group-title="CANAL+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Canal%2B_Sport_2015.png",Canal+ Sport
 #EXTVLCOPT:network-caching=1000
 http://lunar.pm:8080/1915WMAIN/WqSc8ZaqdG/121537
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/CARTOON_NETWORK_logo.png",CARTOON NETWORK
+#EXTINF:-1 group-title="Dessin Animé" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/CARTOON_NETWORK_logo.png",CARTOON NETWORK
 #EXTVLCOPT:network-caching=1000
 http://lunar.pm:8080/1915WMAIN/WqSc8ZaqdG/121541
-#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/362/350/png-clipart-disney-junior-logo-disney-la-chaine-the-walt-disney-company-graphics-disney-junior-logo-television-text.png",DISNEY JUNIOR
+#EXTINF:-1 group-title="Dessin Animé" tvg-logo="https://e7.pngegg.com/pngimages/362/350/png-clipart-disney-junior-logo-disney-la-chaine-the-walt-disney-company-graphics-disney-junior-logo-television-text.png",DISNEY JUNIOR
 #EXTVLCOPT:network-caching=1000
 http://lunar.pm:8080/1915WMAIN/WqSc8ZaqdG/121578
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Nickelodeon_2023_logo.svg/1280px-Nickelodeon_2023_logo.svg.png",NICKELODEON
+#EXTINF:-1 group-title="Dessin Animé" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Nickelodeon_2023_logo.svg/1280px-Nickelodeon_2023_logo.svg.png",NICKELODEON
 #EXTVLCOPT:network-caching=1000
 http://lunar.pm:8080/1915WMAIN/WqSc8ZaqdG/121645
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Teletoon%2B.png/200px-Teletoon%2B.png",TELETOON+
+#EXTINF:-1 group-title="Dessin Animé" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Teletoon%2B.png/200px-Teletoon%2B.png",TELETOON+
 #EXTVLCOPT:network-caching=1000
 http://lunar.pm:8080/1915WMAIN/WqSc8ZaqdG/121703
-#EXTINF:-Films tvg-id="matoc22147.cloudmatoc.com" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b0/Gladiator_II_logo.png", Gladiator II (2024)
+#EXTINF:-Films group-title="Movies" tvg-id="matoc22147.cloudmatoc.com" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b0/Gladiator_II_logo.png", Gladiator II (2024)
 https://matoc22147.cloudmatoc.com/files/aa/vLGIMJdK54knoH7pKjlbHagMjxw2X8psT6a.m3u8
