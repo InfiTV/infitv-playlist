@@ -26,6 +26,8 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tmc.m3
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tfx.m3u8
 #EXTINF:-1 group-title="TNT TV" tvg-id="NRJ12.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/4/44/NRJ12-Logo.png",NRJ 12
 http://viprtea.top:8080/live/VIP011171731504833260/d63a08a0eee7/429.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ByN83p3/funradtv.png",FUN RADIO TV FR
+https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/funradiofr.m3u8
 #EXTINF:-1 group-title="TNT TV" tvg-logo="https://i.ibb.co/kckRLh5/bfm.png",BFM TV
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8?start=LIVE&end=END
 #EXTINF:-1 group-title="TNT TV" tvg-id="CNews.fr" tvg-logo="https://i.imgur.com/UMRGAHx.png",CNews
@@ -46,6 +48,8 @@ https://d2mt8for1pddy4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://d36bxc1bknkxrk.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3ewcp19zjaxpt/index.m3u8
 #EXTINF:-1 group-title="TNT TV" tvg-logo="https://i.ibb.co/R3KG4L9/cherie25.png",CHÉRIE 25
 https://cherie25.nrjaudio.fm/hls/live/2038375/c25/master.m3u8
+#EXTINF:-1 group-title="TNT TV" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/8/83/Sport_en_France_Logo.png"tvg-id="SportenFrance.fr",Sport En France (1080p)
+https://sp1564435593.mytvchain.info/live/sp1564435593/index.m3u8
 #EXTINF:-1 group-title="TNT TV" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/b/b4/LCI_logo_%282016%29.png/1200px-LCI_logo_%282016%29.png",LCI
 #EXTVLCOPT:network-caching=1000
 http://lunar.pm:8080/1915WMAIN/WqSc8ZaqdG/121621
@@ -54,6 +58,12 @@ http://lunar.pm:8080/1915WMAIN/WqSc8ZaqdG/121621
 http://lunar.pm:8080/1915WMAIN/WqSc8ZaqdG/121602
 #EXTINF:-1 group-title="TNT TV" tvg-id="France24French.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/France24.png/640px-France24.png",France 24
 https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_5000.m3u8
+#EXTINF:-1 group-title="TNT TV" tvg-id="LeFigaroTVIledeFrance.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/f/f8/Le_Figaro_logo.svg/1280px-Le_Figaro_logo.svg.png",Le Figaro IDF
+https://figarotv-live.freecaster.com/live/freecaster/figarotv.m3u8
+#EXTINF:-1 #EXTINF:-1 tvg-id="MDL.fr",MDL
+http://tv.mondeduloisir.fr:1935/tixtv/smil:web.smil/playlist.m3u8 
+#EXTINF:-1 group-title="TNT TV" tvg-logo="https://www.mondeduloisir.fr/wp-content/uploads/2016/07/Logo3_URL_Slogan_Noir_MICRO.png"tvg-id="MDL.fr",MDL
+http://tv.mondeduloisir.fr:1935/tixtv/smil:web.smil/playlist.m3u8
 #EXTINF:-1 group-title="CANAL+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Logo_Canal%2B_Cin%C3%A9ma_2009.svg/2560px-Logo_Canal%2B_Cin%C3%A9ma_2009.svg.png",Canal+ Cinéma
 http://lunar.pm:8080/1915WMAIN/WqSc8ZaqdG/121518
 #EXTINF:-1 group-title="CANAL+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/Canal%2B_Docs.png",Canal+ Docs
@@ -79,7 +89,33 @@ http://lunar.pm:8080/1915WMAIN/WqSc8ZaqdG/121645
 #EXTINF:-1 group-title="Dessin Animé" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Teletoon%2B.png/200px-Teletoon%2B.png",TELETOON+
 #EXTVLCOPT:network-caching=1000
 http://lunar.pm:8080/1915WMAIN/WqSc8ZaqdG/121703
-#EXTINF:-1 group-title="Movies" tvg-id="matoc22147.cloudmatoc.com" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b0/Gladiator_II_logo.png", Gladiator II (2024)
-https://matoc22147.cloudmatoc.com/files/aa/vLGIMJdK54knoH7pKjlbHagMjxw2X8psT6a.m3u8
-#EXTINF:-1 tvg-id="share22147.sharecloudy.com" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/7/71/FR_Les_indestructibles_2.png", Les Indestructibles 2 (2018)
-https://share22147.sharecloudy.com/files/aa/SmEme3jqoveJM1538TusFZ3bjVoDALPt8tQ.m3u8
+#EXTINF:-1 group-title="Pluto TV" tvg-logo="https://i.ibb.co/xqMPP7j/famclub.png",FAMILY CLUB
+https://d3kwy5wwq7dpr1.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-5ty5rugo8lr9f/famcl.m3u8
+#EXTINF:-1 group-title="Pluto TV" tvg-logo="https://i.ibb.co/M9XhS35/filmsfr.jpg",FILMS FRANÇAIS
+https://rakuten-films-francais-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Pluto TV" tvg-logo="https://i.ibb.co/3v8W06Q/rakutenfilms.png",RAKUTEN TOP FILMS TV
+https://01ac9352fbfa4204998783d41f9b1a2e.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6068/master.m3u8
+#EXTINF:-1 group-title="Pluto TV" tvg-id="LEspritSorcierTV.fr" tvg-logo="https://lespritsorcier.org/wp-content/themes/lespritsorcier/images/logo-lesprit-sorcier.png",L'Esprit Sorcier TV
+https://194270.global.ssl.fastly.net/63b43410861d94a9eee067fb/live_947330308dd911edb85c8181cb9b11a8/index.m3u8
+#EXTINF:-1 group-title="Pluto TV" tvg-id="Caillou.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/Caillou_logo.png",Caillou
+https://dhx-caillou-2-fr.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Pluto TV" tvg-id="WildSideTV.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/0/00/Wild_Side_Films_Logo.png",Wildside TV
+https://versatile-wildsidetv-1-fr.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Pluto TV" tvg-logo="https://www.planetecsat.com/wp-content/uploads/2023/11/Entete-Adjuge-Vendu.png",Adjugé vendu !
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64bab8ba5dc1660008969b5a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e06ff28-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=5c583725-776e-440c-a02f-17dca14750d3
+#EXTINF:-1 group-title="Pluto TV" tvg-logo="https://photos.tf1.fr/220/110/alerte-cobra-logo_programme-34be8d-0@3x.png",Alerte Cobra
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62f3e4bc08f5ec000744f552/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e06b105-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=e8eddbbb-a9fd-424c-9473-64dc6420b913
+#EXTINF:-1 group-title="Pluto TV" tvg-id="Avatar.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Logo_de_Avatar_la_leyenda_de_Aang.png/800px-Logo_de_Avatar_la_leyenda_de_Aang.png",Avatar
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60b4c17a81e29300071d3a39/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e05edb7-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=640a4092-5016-4d01-bcbf-d66e4f7aa21d
+#EXTINF:-1 group-title="Pluto TV" tvg-id="BBCDrama.fr" tvg-logo="https://oneplanete.com/wp-content/uploads/2024/08/bbc-drama-logo.jpg",BBC Drama
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60d35a74c63c3c0008df6a90/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e0614c5-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=eff52b4b-c804-4f5a-968a-d48a2898e184
+#EXTINF:-1 group-title="Dessin Animé" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/b/b8/Bob_l%27%C3%A9ponge_-_Logo.png" tvg-id="Bobleponge.fr",Bob l'éponge
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ffc8c345822750007e167de/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e059f93-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=eb72cd85-f8e2-414a-99d0-c0cd8a98518d
+#EXTINF:-1 group-title="Pluto TV" tvg-logo="https://static.techno-science.net/illustration/Definitions/1200px/c/cestpassorcier_745e17f632b35fd732c3b507b21daa9b.jpg" tvg-id="",C'est pas sorcier
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63b579961bdba100071214cb/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e06ff23-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=410cc83b-4396-41a0-b726-70e8f1e3fea4
+#EXTINF:-1 group-title="Pluto TV" tvg-logo="https://e1.pngegg.com/pngimages/319/343/png-clipart-doctor-who-logo-blue-doctor-who-logo.png" tvg-id="DoctorWho.fr",Doctor Who
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60d359c98f262f00070c364e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e0614c4-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=a836d7ad-5d71-4fc0-ad59-2017a44eddb6
+#EXTINF:-1 group-title="Pluto TV" tvg-logo="https://images.pluto.tv/channels/63921a1bf76e7d0007c998a6/featuredImage.jpg" tvg-id="",Enquêtes de Choc
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63921a1bf76e7d0007c998a6/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e06d816-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=7931c2bb-1392-4543-8cc4-684661cfd449
+#EXTINF:-1 group-title="Pluto TV" tvg-logo="https://www.failarmy.com/cdn/shop/t/25/assets/logo-image-file.png?v=88203441892567631601703008237" tvg-id="FailArmy.fr",FailArmy
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f8ecd9169d2d4000864a974/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e052a61-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=9b7a96a5-bbde-4e9f-8dd8-997f6a97611f
