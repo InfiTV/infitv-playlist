@@ -1,17 +1,17 @@
 #EXTM3U
-#EXTINF:-Films tvg-id="matoc22147.cloudmatoc.com", Gladiator II (2024)
-https://matoc22147.cloudmatoc.com/files/aa/vLGIMJdK54knoH7pKjlbHagMjxw2X8psT6a.m3u8
-#EXTINF:-Films tvg-id="share22147.sharecloudy.com", Les Indestructibles 2 (2018)
-https://share22147.sharecloudy.com/files/aa/SmEme3jqoveJM1538TusFZ3bjVoDALPt8tQ.m3u8
-#EXTINF:-Films tvg-id="share22147.sharecloudy.com", Deadpool & Wolverine (2024)
-https://share22147.sharecloudy.com/files/aa/KMX0mhT4APYluv9meGyFfLt4RJDoESToERo.m3u8
-#EXTINF:-Films tvg-id="share22147.sharecloudy.com", Venom : The Last Dance (2024)
-https://share22147.sharecloudy.com/files/aa/8r50Ewddd0hMrBnBDxDkrg75HI264KZcb5d.m3u8
-#EXTINF:-Films tvg-id="sharecloudy.com", Le file (2025)
+#EXTINF:-Films group-title="Films" tvg-logo="https://media.themoviedb.org/t/p/original/y69Payc42Cnx1pftzIJ1gaUPpWb.jpg" tvg-id="sharecloudy.com", Le file (2025)
 https://share22147.sharecloudy.com/files/aa/zMeD34w4O6ZnDszGJEMSMuYsQ6QUg1OQN3u.m3u8
-#EXTINF:-Films tvg-id="sharecloudy.com", Kraven the Hunter (2024)
-https://share22147.sharecloudy.com/files/aa/0wpSjwfejPvYVErf2D2q3NCHVCDQ08P0FfT.m3u8
-#EXTINF:-Films tvg-id="sharecloudy.com", Le Jardinier (2025) 
+#EXTINF:-Films group-title="Films" tvg-logo="https://media.themoviedb.org/t/p/original/qxqwLXgd4vjouSsxKXbGhQyjwoa.jpg" tvg-id="sharecloudy.com", Le Jardinier (2025) 
 https://share22147.sharecloudy.com/files/aa/4Xxe7GXzjlTxYDWa71TYkO8t0ziF6n2blAp.m3u8
-#EXTINF:-Films tvg-id="matoc22147.cloudmatoc.com", T.I.M. (2025)
+#EXTINF:-Films group-title="Films" tvg-logo="https://media.themoviedb.org/t/p/original/2zktr2Tef3zuIYp8UxeQTQ2xH80.jpg" tvg-id="matoc22147.cloudmatoc.com", T.I.M. (2025)
 https://matoc22147.cloudmatoc.com/files/aa/pEtcIJ4t278MqGPFENlf0L7eWkDe0UqpzTC.m3u8
+#EXTINF:-Films group-title="Films" tvg-logo="https://media.themoviedb.org/t/p/original/7R1EXkBAKunoG0UhZToFrnlStcp.jpg" tvg-id="matoc22147.cloudmatoc.com", Gladiator II (2024)
+https://matoc22147.cloudmatoc.com/files/aa/vLGIMJdK54knoH7pKjlbHagMjxw2X8psT6a.m3u8
+#EXTINF:-Films group-title="Films" tvg-logo="https://lumiere-a.akamaihd.net/v1/images/image_9b066416.jpeg" tvg-id="share22147.sharecloudy.com", Deadpool & Wolverine (2024)
+https://share22147.sharecloudy.com/files/aa/KMX0mhT4APYluv9meGyFfLt4RJDoESToERo.m3u8
+#EXTINF:-Films group-title="Films" tvg-logo="https://fr.web.img5.acsta.net/img/57/b3/57b356018fe053ff81efa47e79cfb780.jpg" tvg-id="share22147.sharecloudy.com", Venom : The Last Dance (2024)
+https://share22147.sharecloudy.com/files/aa/8r50Ewddd0hMrBnBDxDkrg75HI264KZcb5d.m3u8
+#EXTINF:-Films group-title="Films" tvg-logo="https://media.themoviedb.org/t/p/original/1GvBhRxY6MELDfxFrete6BNhBB5.jpg" tvg-id="sharecloudy.com", Kraven the Hunter (2024)
+https://share22147.sharecloudy.com/files/aa/0wpSjwfejPvYVErf2D2q3NCHVCDQ08P0FfT.m3u8
+#EXTINF:-Films group-title="Films" tvg-logo="https://fr.web.img6.acsta.net/pictures/18/04/13/15/09/0323902.jpg" tvg-id="share22147.sharecloudy.com", Les Indestructibles 2 (2018)
+https://share22147.sharecloudy.com/files/aa/SmEme3jqoveJM1538TusFZ3bjVoDALPt8tQ.m3u8
