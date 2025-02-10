@@ -224,8 +224,8 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f
 
 FILMS
 
-#EXTINF:-1 group-title="Films" tvg-logo="https://www.themoviedb.org/t/p/original/7cHuwERGrFE3ugSb4lnPNgpD9O5.jpg", Le Nouveau Jouet (2022)
-https://matoc24313.cloudmatoc.com/files/aa/y1OwRtK5dWWMAJz79WxR0Vp7Tu0BlrGUtvr.m3u8
+#EXTINF:-1 group-title="Films" tvg-logo="https://media.themoviedb.org/t/p/original/usdwoEwm68cdeMOvGFPwSk9nLTr.jpg", Vaiana 2 (2024)
+https://matoc22147.cloudmatoc.com/files/aa/g3634M2VjA7snX3v2UgFPBPbE9rvLqr1tx5.m3u8
 #EXTINF:-1 group-title="Films" tvg-logo="https://media.themoviedb.org/t/p/original/g6QiIe8pRKpofJF6TyCXHQde7GC.jpg", Week-end à Taipei (2024)
 https://share22147.sharecloudy.com/files/aa/0iNSG3S6G5HujxBcflmkZuWUfeogK9WKrKD.m3u8
 #EXTINF:-1 group-title="Films" tvg-logo="https://media.themoviedb.org/t/p/original/zEhKOyBjwIVAulYMBge09p7zIFy.jpg", Quand vient l'automne (2024)
@@ -410,6 +410,8 @@ https://matoc22140.cloudmatoc.com/files/aa/McymSqUozfZP6VzrMen7DyjHANAuxBMjNkF.m
 https://matoc22140.cloudmatoc.com/files/aa/QRybFjnu2PkAGSiMfA5FQu3T4hiS5NpVEY7.m3u8
 #EXTINF:-1 group-title="Films" tvg-logo="https://www.themoviedb.org/t/p/original/i9ZSZCUMYRpm2AEE2ceNPQPAygn.jpg", Spider-Man : No Way Home - Version longue (2022)
 https://matoc24313.cloudmatoc.com/files/aa/EO93lLIBFPo0kzoU4ZAU5PDmu4vtnKO2zY6.m3u8
+#EXTINF:-1 group-title="Films" tvg-logo="https://www.themoviedb.org/t/p/original/7cHuwERGrFE3ugSb4lnPNgpD9O5.jpg", Le Nouveau Jouet (2022)
+https://matoc24313.cloudmatoc.com/files/aa/y1OwRtK5dWWMAJz79WxR0Vp7Tu0BlrGUtvr.m3u8
 #EXTINF:-1 group-title="Films" tvg-logo="https://www.themoviedb.org/t/p/original/uJvMXO1DNEER2lZocNjJy2zXtYs.jpg", Bullet Train (2022)
 https://matoc24313.cloudmatoc.com/files/aa/NRjkI2pEjfDzqTpZEmO5oVCMjdzKlKK8B3tii.m3u8
 #EXTINF:-1 group-title="Films" tvg-logo="https://www.themoviedb.org/t/p/original/t8ShCiZxrbiy7kuO06OilLI3PeL.jpg", Ténor (2022)
