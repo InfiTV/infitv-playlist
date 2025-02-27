@@ -224,6 +224,8 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f
 
 FILMS
 
+#EXTINF:-1 group-title="Films" tvg-logo="https://fr.web.img5.acsta.net/pictures/15/06/24/16/50/337594.jpg", Un moment d'égarement (2018)
+https://hfs300.serversicuro.cc/hls/dnzpeizb23g4a3gyvbjh5yjdygoi7jn3jtnv5d54iirezfcaik2grdknd7ra/index-v1-a1.m3u8
 #EXTINF:-1 group-title="Films" tvg-logo="https://media.themoviedb.org/t/p/original/usdwoEwm68cdeMOvGFPwSk9nLTr.jpg", Vaiana 2 (2024)
 https://matoc22147.cloudmatoc.com/files/aa/g3634M2VjA7snX3v2UgFPBPbE9rvLqr1tx5.m3u8
 #EXTINF:-1 group-title="Films" tvg-logo="https://media.themoviedb.org/t/p/original/g6QiIe8pRKpofJF6TyCXHQde7GC.jpg", Week-end à Taipei (2024)
