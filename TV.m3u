@@ -5,6 +5,8 @@ ttps://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/yte0GWGwc0Mr/Kv
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/backup/france2.m3u8
 #EXTINF:-1 group-title="TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France_3_logo.png",France 3
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/backup/france3.m3u8
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.imgur.com/9GibmAI.png",France 4
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-4.m3u8
 #EXTINF:-1 group-title="TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Logo_Canal%2B_1995.svg/2560px-Logo_Canal%2B_1995.svg.png",Canal+
 http://viprtea.top:8080/live/VIP011171731504833260/d63a08a0eee7/418.ts?checkedby:gratuittv.free.fr
 #EXTINF:-1group-title="TV"  tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/2/26/Logo_France_5.svg/1194px-Logo_France_5.svg.png",France 5
