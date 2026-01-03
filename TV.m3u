@@ -14,11 +14,8 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/franc
 #EXTINF:-1group-title="TV"  tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/2/26/Logo_France_5.svg/1194px-Logo_France_5.svg.png",France 5
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/backup/france5.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Logo_Canal%2B_1995.svg/2560px-Logo_Canal%2B_1995.svg.png",Canal+
-http://viprtea.top:8080/live/VIP011171731504833260/d63a08a0eee7/418.ts?checkedby:gratuittv.free.fr
-
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/wgJTdGY/m6.png",M6
-http://gratuittv.free.fr/Files/m6/live/playlist.m3u8
+	https://cachehsi1a.netplus.ch/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzY3NTMyOTM0Iiwic2lwIjoiIiwicGF0aCI6Ii9saXZlL2Vkcy9tNmhkL2Jyb3dzZXItSExTOC8iLCJzZXNzaW9uX2Nkbl9pZCI6ImI2OTNmODljZWIwMzA3MGMiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzEwLjAuMjI5LjE4Iiwic2Vzc2lvbl90aW1lb3V0IjowLCJhdWQiOiI0MSIsInNvdXJjZXMiOlsxMDBdfQ==.n6ZvScEPfTRpv4j9lfb3jFt5hQQs0SxRiVmsaWUONE69FjEjgA_Qapbij5xfLC-DaPKeuZMhuEjMZbQcsQE5kQ==/live/eds/m6hd/browser-HLS8/m6hd.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="arte.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Arte_Logo_2017.svg/12px-Arte_Logo_2017.svg.png",Arte
 https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8
