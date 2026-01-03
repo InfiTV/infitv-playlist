@@ -37,3 +37,6 @@ https://tra1-cdn-edge-live02.pfd.sfr.net/bfm-ncdn-live-premium-pal1.pfd.sfr.net/
 
 #EXTINF:-1 group-title="TV" tvg-logo="https://iconape.com/wp-content/png_logo_vector/cnews-logo.png",CNEWS
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/cnews-clair-hd.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-logo="https://static1.ozap.com/articles/1/48/92/41/@/4507226-logo-de-france-info-580x326-1.png",France Info
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/franceinfo.m3u8
