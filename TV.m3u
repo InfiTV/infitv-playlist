@@ -1,24 +1,24 @@
 #EXTM3U
-#EXTINF:-1 group-title="TNT TV" tvg-id="TF1.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/TF1_logo_1990.svg/1200px-TF1_logo_1990.svg.png",TF1
+#EXTINF:-1 group-title="TV" tvg-id="TF1.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/TF1_logo_1990.svg/1200px-TF1_logo_1990.svg.png",TF1
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tf1.m3u8
-#EXTINF:-1 group-title="TNT TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/France_2_logo.png",France 2
+#EXTINF:-1 group-title="TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/France_2_logo.png",France 2
 #EXTVLCOPT:network-caching=1000
 http://lunar.pm:8080/1915WMAIN/WqSc8ZaqdG/121596
-#EXTINF:-1 group-title="TNT TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France_3_logo.png",France 3
+#EXTINF:-1 group-title="TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France_3_logo.png",France 3
 #EXTVLCOPT:network-caching=1000
 http://lunar.pm:8080/1915WMAIN/WqSc8ZaqdG/121598
-#EXTINF:-1 group-title="TNT TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Logo_Canal%2B_1995.svg/2560px-Logo_Canal%2B_1995.svg.png",Canal+
+#EXTINF:-1 group-title="TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Logo_Canal%2B_1995.svg/2560px-Logo_Canal%2B_1995.svg.png",Canal+
 http://viprtea.top:8080/live/VIP011171731504833260/d63a08a0eee7/418.ts?checkedby:gratuittv.free.fr
-#EXTINF:-1group-title="TNT TV"  tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/2/26/Logo_France_5.svg/1194px-Logo_France_5.svg.png",France 5
+#EXTINF:-1group-title="TV"  tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/2/26/Logo_France_5.svg/1194px-Logo_France_5.svg.png",France 5
 #EXTVLCOPT:network-caching=1000
 http://lunar.pm:8080/1915WMAIN/WqSc8ZaqdG/121601
-#EXTINF:-1 group-title="TNT TV" tvg-logo="https://i.ibb.co/wgJTdGY/m6.png",M6
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/wgJTdGY/m6.png",M6
 http://gratuittv.free.fr/Files/m6/live/playlist.m3u8
-#EXTINF:-1 group-title="TNT TV" tvg-id="arte.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Arte_Logo_2017.svg/12px-Arte_Logo_2017.svg.png",Arte
+#EXTINF:-1 group-title="TV" tvg-id="arte.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Arte_Logo_2017.svg/12px-Arte_Logo_2017.svg.png",Arte
 https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8
-#EXTINF:-1 group-title="TNT TV" tvg-id="C8.fr" tvg-logo="https://i.imgur.com/LXhXF8l.png",C8
+#EXTINF:-1 group-title="TV" tvg-id="C8.fr" tvg-logo="https://i.imgur.com/LXhXF8l.png",C8
 http://viprtea.top:8080/live/VIP011171731504833260/d63a08a0eee7/423.ts
-#EXTINF:-1 group-title="TNT TV" tvg-logo="https://i.ibb.co/LNRd253/w9.png",W9
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/LNRd253/w9.png",W9
 http://viprtea.top:8080/live/VIP011171731504833260/d63a08a0eee7/422.ts
 #EXTINF:-1 group-title="TNT TV" tvg-id="TMC.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/a/a8/TMC_logo_2016.svg/2560px-TMC_logo_2016.svg.png",TMC
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tmc.m3u8
