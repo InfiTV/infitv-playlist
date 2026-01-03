@@ -34,3 +34,6 @@ https://viamotionhsi.netplus.ch/live/eds/cherie25/browser-HLS8/cherie25.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-logo="https://www.liblogo.com/img-logo/bf6689m321-bfm-tv-logo-media-page-13-.png",BFM TV
 https://tra1-cdn-edge-live02.pfd.sfr.net/bfm-ncdn-live-premium-pal1.pfd.sfr.net/sid=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3Njc0ODQwMTIsImp0aSI6IjAwb3JhbmM4cGxwcGppazMzdnBnIiwic3ViIjoiQkZNX1RWIiwiaXNzIjoibHlvMi1jZG4tc3IwMCIsImV4cCI6MTc2NzUyNzIxMiwiaXAiOiI5Mi4xMzcuMTA3LjI3In0.DCAVfhY0XlR9ss1kM_llyJQQurcP1v5dj8om7aop6wc/shls/LIVE$BFM_TV/index.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-logo="https://iconape.com/wp-content/png_logo_vector/cnews-logo.png",CNEWS
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/cnews-clair-hd.m3u8
