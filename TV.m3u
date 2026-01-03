@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="TV" tvg-id="TF1.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/TF1_logo_1990.svg/1200px-TF1_logo_1990.svg.png",TF1
+#EXTINF:-1 group-title="TV" tvg-id="TF1.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/TF1_color.png?h=100",TF1
 ttps://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/yte0GWGwc0Mr/KvDIxmsJ0Di1eSSJ.m3u8
 #EXTINF:-1 group-title="TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/France_2_logo.png",France 2
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/backup/france2.m3u8
