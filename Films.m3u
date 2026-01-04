@@ -1,23 +1,103 @@
 #EXTM3U
-#EXTINF:-1 group-title="Films" tvg-logo="https://media.themoviedb.org/t/p/original/ctU9S47MoJDN9CB7SCaitcfyyIu.jpg", Trap House (2025)
+#EXTINF:-1 group-title="Films" tvg-logo="https://media.themoviedb.org/t/p/original/ctU9S47MoJDN9CB7SCaitcfyyIu.jpg", Trap House
 https://moo265724.moovbob.fr/files/aa/r6NsZsCbmpe26gDF3YJWe0pDGSBC3EouLbX.m3u8
-#EXTINF:-1 group-title="Films" tvg-logo="https://media.themoviedb.org/t/p/original/qMkHZ0OrQpv8yyU0og611uXBwKL.jpg", Wicked : Partie II (2025)
+
+
+
+
+JOHN WICK
+
+#EXTINF:-1 group-title="Films" tvg-logo="https://image.tmdb.org/t/p/w500/orB4dHfZ9rOJbKYow7W0etezchl.jpg", John Wick
+https://cinefries.xyz/movies/John-Wick.mp4
+#EXTINF:-1 group-title="Films" tvg-logo="https://image.tmdb.org/t/p/w500/r687UV1zQ5KDB9AxRokRscWIRvt.jpg", John Wick : Chapitre 2
+https://cdn-zrxms7xl06zuseys.edgeon-bandwidth.com/engine/hls2/01/16179/rd1ooczfvypb_,n,.urlset/index-v1-a1.m3u8?t=IWGJYWfwVXlE1Vk8ps7uZ9wBlVihDFjtmcAzHEdn3Ro&s=1767494065&e=14400&f=80899980&node=QDhUD1BCVABWHahrrteZ0jwEU43hSijKnDxpUvfvbmA=&i=92.137&sp=2500&asn=3215&q=n&rq=nDE2VrGhUlomN4v1cZQhToIhZ29ffAqXRnlWnMf4
+#EXTINF:-1 group-title="Films" tvg-logo="https://image.tmdb.org/t/p/w500/8gd71hpzHIF3gCkmJBwV5egtu3k.jpg", John Wick : Parabellum
+https://cinefries.xyz/movies/John-Wick-Parabellum.mp4
+#EXTINF:-1 group-title="Films" tvg-logo="https://image.tmdb.org/t/p/w500/n1YTIyhAqqqFyDGFTzV7WaU1JfK.jpg", John Wick : Chapitre 4
+https://cinefries.xyz/movies/John-Wick-Chapitre-4.mp4
+
+WICKED
+
+#EXTINF:-1 group-title="Films" tvg-logo="https://image.tmdb.org/t/p/w500/kQkgPhj6sCuoMWzPKWQVOWUXzib.jpg", Wicked
+https://cinefries.xyz/movies/Wicked.mp4
+#EXTINF:-1 group-title="Films" tvg-logo="https://media.themoviedb.org/t/p/original/qMkHZ0OrQpv8yyU0og611uXBwKL.jpg", Wicked : Partie II
 https://moo265724.moovbob.fr/files/aa/OF4pY4G72FaYvPj5aGMhbVsyzA5sseJhTOG.m3u8
-#EXTINF:-1 group-title="Films" tvg-logo="https://image.tmdb.org/t/p/w500/tEY81I7lpiHaLJa7AZ3O4vWXmJo.jpg", Five Nights at Freddy's (2023)
+
+
+
+
+FNAF
+
+#EXTINF:-1 group-title="Films" tvg-logo="https://image.tmdb.org/t/p/w500/tEY81I7lpiHaLJa7AZ3O4vWXmJo.jpg", Five Nights at Freddy's
 https://cinefries.xyz/movies/Five-Nights-at-Freddy's.mp4
-#EXTINF:-1 group-title="Films" tvg-logo="https://media.themoviedb.org/t/p/original/udAxQEORq2I5wxI97N2TEqdhzBE.jpg", Five Nights at Freddy's 2 (2025)
+#EXTINF:-1 group-title="Films" tvg-logo="https://media.themoviedb.org/t/p/original/udAxQEORq2I5wxI97N2TEqdhzBE.jpg", Five Nights at Freddy's 2
 https://moo265724.moovbob.fr/files/aa/DQFLRJF9tqaOhxKMaqgfsGblI75yIYLmOr7.m3u8
-#EXTINF:-1 group-title="Films" tvg-logo="https://media.themoviedb.org/t/p/original/maWyJrdX8Uz21BlH57RdbhkiIRn.jpg", Submersion (2025)
+
+
+
+
+#EXTINF:-1 group-title="Films" tvg-logo="https://media.themoviedb.org/t/p/original/maWyJrdX8Uz21BlH57RdbhkiIRn.jpg", Submersion
 https://share102764.sharecloudy.com/files/aa/E9Zci5VXCNcQJ3Ekcgi8D9eWrwbP4kvJtvV.m3u8
-#EXTINF:-1 group-title="Films" tvg-logo="https://media.themoviedb.org/t/p/original/bkLaI0JqXb1lRqGti0zGgUMb1Uk.jpg", Insaisissables 3 (2025)
+
+
+
+
+INSAISISSABLES
+
+#EXTINF:-1 group-title="Films" tvg-logo="hthttps://image.tmdb.org/t/p/w500/dCiHkBku0v0lw0IrGiTRvktLTLc.jpg", Insaisissables
+https://cinefries.xyz/movies/Insaisissables.mp4
+#EXTINF:-1 group-title="Films" tvg-logo="https://image.tmdb.org/t/p/w500/w7Q9BAqpbPHSeo6ZDYRpFGpGUxn.jpg", Insaisissables 2
+https://cinefries.xyz/movies/Insaisissables-2.mp4
+#EXTINF:-1 group-title="Films" tvg-logo="https://media.themoviedb.org/t/p/original/bkLaI0JqXb1lRqGti0zGgUMb1Uk.jpg", Insaisissables 3
 https://moov102764.moovtop.fr/files/aa/sya4fg8WhxD8yBGufFR1PnVdc2GGWHupfEu.m3u8
-#EXTINF:-1 group-title="Films" tvg-logo="https://image.tmdb.org/t/p/w500/v5Y8pVwJK68SKQQ1GRbIB1hkPDy.jpg", Avatar (2009)
+
+
+
+
+
+AVATAR
+
+#EXTINF:-1 group-title="Films" tvg-logo="https://image.tmdb.org/t/p/w500/v5Y8pVwJK68SKQQ1GRbIB1hkPDy.jpg", Avatar
 https://cinefries.xyz/movies/Avatar.mp4
-#EXTINF:-1 group-title="Films" tvg-logo="https://image.tmdb.org/t/p/w500/kQYx143yujkwyjJdZH2skOGeQfA.jpg", Avatar : La Voie de l'eau (2022)
+#EXTINF:-1 group-title="Films" tvg-logo="https://image.tmdb.org/t/p/w500/kQYx143yujkwyjJdZH2skOGeQfA.jpg", Avatar : La Voie de l'eau
 https://cinefries.xyz/movies/Avatar-La-Voie-de-l'eau.mp4
-#EXTINF:-1 group-title="Films" tvg-logo="https://image.tmdb.org/t/p/w500/8RAHFsRCE4Jwa1jD00tWFCvrsIa.jpg", Les Simpson, le film (2007)
+
+
+
+
+LES SIMPSON
+
+#EXTINF:-1 group-title="Films" tvg-logo="https://image.tmdb.org/t/p/w500/8RAHFsRCE4Jwa1jD00tWFCvrsIa.jpg", Les Simpson, le film
 https://cinefries.xyz/movies/Les-Simpson-le-film.mp4
-#EXTINF:-1 group-title="Films" tvg-logo="https://image.tmdb.org/t/p/w500/xEx4dHi2IrTB0vkVPccrGrMcZQW.jpg", Zootopie (2016)
+
+
+
+
+ZOOTOPIE
+
+#EXTINF:-1 group-title="Films" tvg-logo="https://image.tmdb.org/t/p/w500/xEx4dHi2IrTB0vkVPccrGrMcZQW.jpg", Zootopie
 https://cinefries.xyz/movies/Zootopie.mp4
 
 
+
+
+LES INDESTRUCTIBLES
+
+#EXTINF:-1 group-title="Films" tvg-logo="https://image.tmdb.org/t/p/w500/1FLKNiL41KPRgByj4uwlIqrpD6f.jpg", Les Indestructibles
+https://cinefries.xyz/movies/Les-Indestructibles.mp4
+#EXTINF:-1 group-title="Films" tvg-logo="https://image.tmdb.org/t/p/w500/Apish2YD3QIAepzxZ96VLkqEZo3.jpg", Les Indestructibles 2
+https://cinefries.xyz/movies/Les-Indestructibles-2.mp4
+
+
+
+
+TOY STORY
+
+#EXTINF:-1 group-title="Films" tvg-logo="https://image.tmdb.org/t/p/w500/Apish2YD3QIAepzxZ96VLkqEZo3.jpg", Toy Story
+https://cinefries.xyz/movies/Toy-Story.mp4
+#EXTINF:-1 group-title="Films" tvg-logo="https://image.tmdb.org/t/p/w500/144DDQdfZxAK5xyPTETmygzGGuH.jpg", Toy Story 2
+https://cinefries.xyz/movies/Toy-Story-2.mp4
+#EXTINF:-1 group-title="Films" tvg-logo="https://image.tmdb.org/t/p/w500/hhOQ0FGXs0ux2GNMihx9itfRCm1.jpg", Toy Story 3
+https://cinefries.xyz/movies/Toy-Story-3.mp4
+#EXTINF:-1 group-title="Films" tvg-logo="https://image.tmdb.org/t/p/w500/smFyhZHuOCZEmH0kfXOrJLC3Acx.jpg", Toy Story 4
+https://cinefries.xyz/movies/Toy-Story-4.mp4
