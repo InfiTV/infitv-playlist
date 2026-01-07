@@ -28,9 +28,9 @@ https://bram265724.bramtiv.com/files/aa/xBvj3HDh7d9yhUSYi7l0VdB6JZUy0NrxpXR.m3u8
 #EXTINF:-1 group-title="Films" tvg-logo="https://image.tmdb.org/t/p/w500/qrW8Y3FyxtntpZBi7RmL5NSvf2j.jpg", Predators
 https://moo265724.moovbob.fr/files/aa/HNW1kz67bnWeG46OKx9sv3pS5N6teJxVwtX.m3u8
 #EXTINF:-1 group-title="Films" tvg-logo="https://media.themoviedb.org/t/p/original/9IWkkaQu1Mn7Lakxm7nExdbdTyn.jpg", Aliens vs. Predator : Requiem
-https://share31121.sharecloudy.com/files/aa/VgjE8LK2OEOcySWhmbXuTyPzUCi60gKWw4A.m3u8
+https://cdn-s9axncnqpmolwhjf.edgeon-bandwidth.com/engine/hls2/01/10328/ylqkoxbgpdfo_,l,.urlset/master.m3u8?t=lWeSCDeslVYcc55BP__f1AlimNb6AJWqqM-eGoFBXAQ&s=1767803681&e=14400&f=51642042&node=BCeQachLSBhn9CjtJ8a5NmjiOwQOySRQZJFN9sWfb0k=&i=92.137&sp=2500&asn=3215&q=l&rq=vVyRkO0D7S87hVQt1Y3MGaKjpmHbYcx0q2s83PmI
 #EXTINF:-1 group-title="Films" tvg-logo="https://media.themoviedb.org/t/p/original/eFAnRsEb4vCW3TZDjLgYz5jPeJ0.jpg", Alien vs. Predator
-https://share31121.sharecloudy.com/files/aa/0i65voOVf3j93ZICprXhtYOpfXtlPeuPwBU.m3u8
+https://cdn-l7kjbveqiywy9liy.edgeon-bandwidth.com/engine/hls2/01/10308/dt5kbnynr7nd_,l,.urlset/master.m3u8?t=PqIR_YwKQ15tC8qTlSBv40cz1oSMd0WIXozz27KonHQ&s=1767803772&e=14400&f=51544049&node=VhoHb2K+3MzKyEss8ubETA50StKgErGhDT2jqnERLyk=&i=92.137&sp=2500&asn=3215&q=l&rq=vVyRkO0D7S87hVQt1Y3MGaKjpmHbYcx0q2s83PmI
 #EXTINF:-1 group-title="Films" tvg-logo="https://media.themoviedb.org/t/p/original/q2m0SdutKMT1UNvODL6B2zK2lvU.jpg", Predator 2
 https://moo265724.moovbob.fr/files/aa/AoISy4KCdwm9sdzr5YeWZB9zbY6TikFSJnL.m3u8
 #EXTINF:-1 group-title="Films" tvg-logo="https://media.themoviedb.org/t/p/original/lXoATMtTK3ZsICCvTtXygASHZd9.jpg", Predator
@@ -175,7 +175,8 @@ ANIME
 #EXTINF:-1 group-title="Films" tvg-logo="https://image.tmdb.org/t/p/w500/wXTU3AFmlUPbqjH68MZ989uHd6k.jpg", Demon Slayer : Kimetsu no Yaiba - Le film : La Forteresse infinie
 https://cinefries.xyz/movies/Demon-Slayer-Kimetsu-no-Yaiba-Le-La-Forteresse-infinie.mp4
 #EXTINF:-1 group-title="Films" tvg-logo="https://image.tmdb.org/t/p/w500/cHcG6wXRPjIbeUqydKdG7r0oMmc.jpg", Chainsaw Man – Le Film : L'arc de Reze
-https://homard.space/29_Chainsaw_Man_The_Movie_Reze_Arc_2025.mp4
+https://api-french-stream1.vercel.app/api/proxy/stream?url=https%3A//v4.vidzy.org/hls2/03/00027/4kjnwjvjq5q6_n/seg-11-v1-a1.ts%3Ft%3DypgfW_VBY5swQUFz1JyKezrsj5ixBsRB_XrT5Vj7PFw%26s%3D1767803867%26e%3D172800%26f%3D137840%26i%3D0.0%26sp%3D0
+
 
 
 
