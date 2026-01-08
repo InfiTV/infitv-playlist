@@ -1,4 +1,10 @@
 #EXTM3U
+
+#EXTINF:-1 group-title="Films" tvg-logo="https://www.affiche-cine.com/images/thumb-1200x1600/30/affiche-cine-70869.jpg", Super-héros malgré lui
+https://cinefries.xyz/movies/Super-heros-malgre-lui.mp4
+
+
+
 #EXTINF:-1 group-title="Films" tvg-logo="https://media.themoviedb.org/t/p/original/ctU9S47MoJDN9CB7SCaitcfyyIu.jpg", Trap House
 https://moo265724.moovbob.fr/files/aa/r6NsZsCbmpe26gDF3YJWe0pDGSBC3EouLbX.m3u8
 
@@ -178,6 +184,7 @@ ANIME
 https://cinefries.xyz/movies/Demon-Slayer-Kimetsu-no-Yaiba-Le-La-Forteresse-infinie.mp4
 #EXTINF:-1 group-title="Films" tvg-logo="https://image.tmdb.org/t/p/w500/cHcG6wXRPjIbeUqydKdG7r0oMmc.jpg", Chainsaw Man – Le Film : L'arc de Reze
 https://hfs322.serversicuro.cc/hls/,dnzpebls4dg4a3gyvdkx3nrezm4sz2vz2v3mcgq6qibzikqo5l5ajaufsdoa,.urlset/master.m3u8
+
 
 
 
