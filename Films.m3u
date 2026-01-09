@@ -61,6 +61,19 @@ https://cinefries.xyz/movies/A-contre-sens-londres.mp4
 
 
 
+AVENGERS
+#EXTINF:-1 group-title="Films" tvg-logo="https://image.tmdb.org/t/p/w500/ylsAO88v2tF0iXRFojPa0UaAJf1.jpg", Avengers
+https://cinefries.xyz/movies/Avengers.mp4
+#EXTINF:-1 group-title="Films" tvg-logo="https://image.tmdb.org/t/p/w500/oILpX52YLTnwz5BeQg9uC0eAM57.jpg", Avengers : L'Ère d'Ultron
+https://cinefries.xyz/movies/Avengers-L'Ere-d'Ultron.mp4
+#EXTINF:-1 group-title="Films" tvg-logo="https://image.tmdb.org/t/p/w500/hSfuKPtyEryeFzapZ8UgZd4aESu.jpg", Avengers : Infinity War
+https://cinefries.xyz/movies/Avengers-Infinity-War.mp4
+#EXTINF:-1 group-title="Films" tvg-logo="https://image.tmdb.org/t/p/w500/wF7jv3x51hXgkl7t5KHePuRjXc8.jpg", Avengers : Endgame
+https://cinefries.xyz/movies/Avengers-Endgame.mp4
+
+
+
+
 WICKED
 
 #EXTINF:-1 group-title="Films" tvg-logo="https://image.tmdb.org/t/p/w500/kQkgPhj6sCuoMWzPKWQVOWUXzib.jpg", Wicked
@@ -106,6 +119,31 @@ AVATAR
 https://cinefries.xyz/movies/Avatar.mp4
 #EXTINF:-1 group-title="Films" tvg-logo="https://image.tmdb.org/t/p/w500/kQYx143yujkwyjJdZH2skOGeQfA.jpg", Avatar : La Voie de l'eau
 https://cinefries.xyz/movies/Avatar-La-Voie-de-l'eau.mp4
+
+
+
+IRON MAN
+
+#EXTINF:-1 group-title="Films" tvg-logo="https://image.tmdb.org/t/p/w500/kNKUCNLu1lZDGAHOBEHxR6psYHx.jpg", Iron Man
+https://cinefries.xyz/movies/Iron-Man.mp4
+#EXTINF:-1 group-title="Films" tvg-logo="https://image.tmdb.org/t/p/w500/g9DSeSozGi4zpUyeOYZYMNmIv9O.jpg", Iron Man 2
+https://cinefries.xyz/movies/Iron-Man-2.mp4
+#EXTINF:-1 group-title="Films" tvg-logo="https://image.tmdb.org/t/p/w500/sE71EBrRMfW0NKMHlXPO55Km88X.jpg", Iron Man 3
+https://cinefries.xyz/movies/Iron-Man-3.mp4
+
+
+
+
+CAPTAIN AMERICA
+
+#EXTINF:-1 group-title="Films" tvg-logo="https://image.tmdb.org/t/p/w500/l1SP3gyHA5ZEuf72WKx5ihtZZFO.jpg", Captain America : First Avenger
+https://cinefries.xyz/movies/Captain-America-First-Avenger.mp4
+#EXTINF:-1 group-title="Films" tvg-logo="https://image.tmdb.org/t/p/w500/5sFghKDk1al94Etuvl9sQOCLExR.jpg", Captain America : Le Soldat de l'hiver
+https://cinefries.xyz/movies/Captain-America-Le-Soldat-de-l'hiver.mp4
+#EXTINF:-1 group-title="Films" tvg-logo="https://image.tmdb.org/t/p/w500/i2nc9IAP1xRWoa3MgeR7ldsshkV.jpg", Captain America : Civil War
+https://cinefries.xyz/movies/Captain-America-Civil-War.mp4
+#EXTINF:-1 group-title="Films" tvg-logo="https://image.tmdb.org/t/p/w500/wDRXmiAEJdhNIcuetM4016fOCx8.jpg", Captain America : Brave New World
+https://cinefries.xyz/movies/Captaine-America-Brave-New-World.mp4
 
 
 
@@ -184,6 +222,7 @@ ANIME
 https://cinefries.xyz/movies/Demon-Slayer-Kimetsu-no-Yaiba-Le-La-Forteresse-infinie.mp4
 #EXTINF:-1 group-title="Films" tvg-logo="https://image.tmdb.org/t/p/w500/cHcG6wXRPjIbeUqydKdG7r0oMmc.jpg", Chainsaw Man – Le Film : L'arc de Reze
 https://hfs322.serversicuro.cc/hls/,dnzpebls4dg4a3gyvdkx3nrezm4sz2vz2v3mcgq6qibzikqo5l5ajaufsdoa,.urlset/master.m3u8
+
 
 
 
