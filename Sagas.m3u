@@ -1,8 +1,8 @@
 #EXTM3U
 
 # ================= COVER DE LA SAGA =================
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/bQGciwYBe0aG1UNHuIiFkey4pqX.jpg",Iron Man Collection
-https://image.tmdb.org/t/p/w500/bQGciwYBe0aG1UNHuIiFkey4pqX.jpg
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/bQGciwYBe0aG1UNHuIiFkey4pqX.jpg",Collection
+
 
 # ================= FILMS DE LA SAGA =================
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/kNKUCNLu1lZDGAHOBEHxR6psYHx.jpg",Iron Man
