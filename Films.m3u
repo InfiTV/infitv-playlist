@@ -16,7 +16,7 @@ JOHN WICK
 #EXTINF:-1 group-title="Films" tvg-logo="https://image.tmdb.org/t/p/w500/orB4dHfZ9rOJbKYow7W0etezchl.jpg", John Wick
 https://cinefries.xyz/movies/John-Wick.mp4
 #EXTINF:-1 group-title="Films" tvg-logo="https://image.tmdb.org/t/p/w500/r687UV1zQ5KDB9AxRokRscWIRvt.jpg", John Wick : Chapitre 2
-https://cdn-zrxms7xl06zuseys.edgeon-bandwidth.com/engine/hls2/01/16179/rd1ooczfvypb_,n,.urlset/master.m3u8?t=iMI1CPGmn2yOsGz2yvxKw3miF3vAjkt9Z-X4075JRvw&s=1767803559&e=14400&f=80899980&node=QDhUD1BCVABWHahrrteZ0jwEU43hSijKnDxpUvfvbmA=&i=92.137&sp=2500&asn=3215&q=n&rq=vVyRkO0D7S87hVQt1Y3MGaKjpmHbYcx0q2s83PmI
+https://cinefries.xyz/movies/John-Wick-2.mp4
 #EXTINF:-1 group-title="Films" tvg-logo="https://image.tmdb.org/t/p/w500/8gd71hpzHIF3gCkmJBwV5egtu3k.jpg", John Wick : Parabellum
 https://cinefries.xyz/movies/John-Wick-Parabellum.mp4
 #EXTINF:-1 group-title="Films" tvg-logo="https://image.tmdb.org/t/p/w500/n1YTIyhAqqqFyDGFTzV7WaU1JfK.jpg", John Wick : Chapitre 4
@@ -36,9 +36,9 @@ https://bram265724.bramtiv.com/files/aa/xBvj3HDh7d9yhUSYi7l0VdB6JZUy0NrxpXR.m3u8
 #EXTINF:-1 group-title="Films" tvg-logo="https://image.tmdb.org/t/p/w500/qrW8Y3FyxtntpZBi7RmL5NSvf2j.jpg", Predators
 https://moo265724.moovbob.fr/files/aa/HNW1kz67bnWeG46OKx9sv3pS5N6teJxVwtX.m3u8
 #EXTINF:-1 group-title="Films" tvg-logo="https://media.themoviedb.org/t/p/original/9IWkkaQu1Mn7Lakxm7nExdbdTyn.jpg", Aliens vs. Predator : Requiem
-https://cdn-s9axncnqpmolwhjf.edgeon-bandwidth.com/engine/hls2/01/10328/ylqkoxbgpdfo_,l,.urlset/master.m3u8?t=lWeSCDeslVYcc55BP__f1AlimNb6AJWqqM-eGoFBXAQ&s=1767803681&e=14400&f=51642042&node=BCeQachLSBhn9CjtJ8a5NmjiOwQOySRQZJFN9sWfb0k=&i=92.137&sp=2500&asn=3215&q=l&rq=vVyRkO0D7S87hVQt1Y3MGaKjpmHbYcx0q2s83PmI
+https://hfs324.serversicuro.cc/hls/dnzpavcg5pg4a3gyvajh5ljzq427kzo3vaw5vqhdxjxeithjcvjl2l4xmuza/index-v1-a1.m3u8
 #EXTINF:-1 group-title="Films" tvg-logo="https://media.themoviedb.org/t/p/original/eFAnRsEb4vCW3TZDjLgYz5jPeJ0.jpg", Alien vs. Predator
-https://cdn-l7kjbveqiywy9liy.edgeon-bandwidth.com/engine/hls2/01/10308/dt5kbnynr7nd_,l,.urlset/master.m3u8?t=PqIR_YwKQ15tC8qTlSBv40cz1oSMd0WIXozz27KonHQ&s=1767803772&e=14400&f=51544049&node=VhoHb2K+3MzKyEss8ubETA50StKgErGhDT2jqnERLyk=&i=92.137&sp=2500&asn=3215&q=l&rq=vVyRkO0D7S87hVQt1Y3MGaKjpmHbYcx0q2s83PmI
+https://hfs324.serversicuro.cc/hls/dnzpfpiu5tg4a3gyvasx5ijiyuch4zl55d2aey4qjmdwkisx2axeermhzaxq/index-v1-a1.m3u8
 #EXTINF:-1 group-title="Films" tvg-logo="https://media.themoviedb.org/t/p/original/q2m0SdutKMT1UNvODL6B2zK2lvU.jpg", Predator 2
 https://moo265724.moovbob.fr/files/aa/AoISy4KCdwm9sdzr5YeWZB9zbY6TikFSJnL.m3u8
 #EXTINF:-1 group-title="Films" tvg-logo="https://media.themoviedb.org/t/p/original/lXoATMtTK3ZsICCvTtXygASHZd9.jpg", Predator
@@ -184,6 +184,7 @@ ANIME
 https://cinefries.xyz/movies/Demon-Slayer-Kimetsu-no-Yaiba-Le-La-Forteresse-infinie.mp4
 #EXTINF:-1 group-title="Films" tvg-logo="https://image.tmdb.org/t/p/w500/cHcG6wXRPjIbeUqydKdG7r0oMmc.jpg", Chainsaw Man – Le Film : L'arc de Reze
 https://hfs322.serversicuro.cc/hls/,dnzpebls4dg4a3gyvdkx3nrezm4sz2vz2v3mcgq6qibzikqo5l5ajaufsdoa,.urlset/master.m3u8
+
 
 
 
