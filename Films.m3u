@@ -18,14 +18,6 @@ https://cinefries.xyz/movies/Real-Steel.mp4
 
 JOHN WICK
 
-#EXTINF:-1 group-title="Films" tvg-logo="https://image.tmdb.org/t/p/w500/orB4dHfZ9rOJbKYow7W0etezchl.jpg", John Wick
-https://cinefries.xyz/movies/John-Wick.mp4
-#EXTINF:-1 group-title="Films" tvg-logo="https://image.tmdb.org/t/p/w500/r687UV1zQ5KDB9AxRokRscWIRvt.jpg", John Wick : Chapitre 2
-https://cinefries.xyz/movies/John-Wick-2.mp4
-#EXTINF:-1 group-title="Films" tvg-logo="https://image.tmdb.org/t/p/w500/8gd71hpzHIF3gCkmJBwV5egtu3k.jpg", John Wick : Parabellum
-https://cinefries.xyz/movies/John-Wick-Parabellum.mp4
-#EXTINF:-1 group-title="Films" tvg-logo="https://image.tmdb.org/t/p/w500/n1YTIyhAqqqFyDGFTzV7WaU1JfK.jpg", John Wick : Chapitre 4
-https://cinefries.xyz/movies/John-Wick-Chapitre-4.mp4
 #EXTINF:-1 group-title="Films" tvg-logo="https://image.tmdb.org/t/p/w500/cAMk3C3uUbwSgoZ6EMoPjXI2tt.jpg", Ballerina
 https://cinefries.xyz/movies/Ballerina-2025.mp4
 
@@ -62,19 +54,6 @@ https://cinefries.xyz/movies/A-Contre-Sens-2.mp4
 https://cinefries.xyz/movies/A-contre-sens-3.mp4
 #EXTINF:-1 group-title="Films" tvg-logo="https://image.tmdb.org/t/p/w500/y9ii1qorIELEshaxaLuF2MlyRv.jpg", À contre-sens : Londres
 https://cinefries.xyz/movies/A-contre-sens-londres.mp4
-
-
-
-
-AVENGERS
-#EXTINF:-1 group-title="Films" tvg-logo="https://image.tmdb.org/t/p/w500/ylsAO88v2tF0iXRFojPa0UaAJf1.jpg", Avengers
-https://cinefries.xyz/movies/Avengers.mp4
-#EXTINF:-1 group-title="Films" tvg-logo="https://image.tmdb.org/t/p/w500/oILpX52YLTnwz5BeQg9uC0eAM57.jpg", Avengers : L'Ère d'Ultron
-https://cinefries.xyz/movies/Avengers-L'Ere-d'Ultron.mp4
-#EXTINF:-1 group-title="Films" tvg-logo="https://image.tmdb.org/t/p/w500/hSfuKPtyEryeFzapZ8UgZd4aESu.jpg", Avengers : Infinity War
-https://cinefries.xyz/movies/Avengers-Infinity-War.mp4
-#EXTINF:-1 group-title="Films" tvg-logo="https://image.tmdb.org/t/p/w500/wF7jv3x51hXgkl7t5KHePuRjXc8.jpg", Avengers : Endgame
-https://cinefries.xyz/movies/Avengers-Endgame.mp4
 
 
 
@@ -127,26 +106,9 @@ https://cinefries.xyz/movies/Avatar-La-Voie-de-l'eau.mp4
 
 
 
-IRON MAN
-
-#EXTINF:-1 group-title="Films" tvg-logo="https://image.tmdb.org/t/p/w500/kNKUCNLu1lZDGAHOBEHxR6psYHx.jpg", Iron Man
-https://cinefries.xyz/movies/Iron-Man.mp4
-#EXTINF:-1 group-title="Films" tvg-logo="https://image.tmdb.org/t/p/w500/g9DSeSozGi4zpUyeOYZYMNmIv9O.jpg", Iron Man 2
-https://cinefries.xyz/movies/Iron-Man-2.mp4
-#EXTINF:-1 group-title="Films" tvg-logo="https://image.tmdb.org/t/p/w500/sE71EBrRMfW0NKMHlXPO55Km88X.jpg", Iron Man 3
-https://cinefries.xyz/movies/Iron-Man-3.mp4
-
-
-
 
 CAPTAIN AMERICA
 
-#EXTINF:-1 group-title="Films" tvg-logo="https://image.tmdb.org/t/p/w500/l1SP3gyHA5ZEuf72WKx5ihtZZFO.jpg", Captain America : First Avenger
-https://cinefries.xyz/movies/Captain-America-First-Avenger.mp4
-#EXTINF:-1 group-title="Films" tvg-logo="https://image.tmdb.org/t/p/w500/5sFghKDk1al94Etuvl9sQOCLExR.jpg", Captain America : Le Soldat de l'hiver
-https://cinefries.xyz/movies/Captain-America-Le-Soldat-de-l'hiver.mp4
-#EXTINF:-1 group-title="Films" tvg-logo="https://image.tmdb.org/t/p/w500/i2nc9IAP1xRWoa3MgeR7ldsshkV.jpg", Captain America : Civil War
-https://cinefries.xyz/movies/Captain-America-Civil-War.mp4
 #EXTINF:-1 group-title="Films" tvg-logo="https://image.tmdb.org/t/p/w500/wDRXmiAEJdhNIcuetM4016fOCx8.jpg", Captain America : Brave New World
 https://cinefries.xyz/movies/Captaine-America-Brave-New-World.mp4
 
@@ -154,27 +116,8 @@ https://cinefries.xyz/movies/Captaine-America-Brave-New-World.mp4
 
 THOR
 
-#EXTINF:-1 group-title="Films" tvg-logo="https://image.tmdb.org/t/p/w500/q8pF6s9b9veTQvxTqMDIQf9nJKi.jpg", Thor
-https://cinefries.xyz/movies/Thor.mp4
-#EXTINF:-1 group-title="Films" tvg-logo="https://image.tmdb.org/t/p/w500/eAIGX0nlwlb5sMb4uDRGNFqMyG9.jpg", Thor : Le Monde des ténèbres
-https://cinefries.xyz/movies/Thor-Le-Monde-Des-Tenebres.mp4
-#EXTINF:-1 group-title="Films" tvg-logo="https://image.tmdb.org/t/p/w500/mAA8RXkgF87jSWWMSf6hgLl73mk.jpg", Thor : Ragnarok
-https://cinefries.xyz/movies/Thor-Ragnarok.mp4
 #EXTINF:-1 group-title="Films" tvg-logo="https://image.tmdb.org/t/p/w500/kSMarEm3ESOOr11dzsep2RZ1ClD.jpg", Thor : Love and Thunder
 https://cinefries.xyz/movies/Thor-Love-And-Thunder.mp4
-
-
-
-
-SPIDERMAN
-
-#EXTINF:-1 group-title="Films" tvg-logo="https://image.tmdb.org/t/p/w500/pNz1NREgddPdlzytlR8mW4B26fW.jpg", Spider-Man
-https://cinefries.xyz/movies/Spider-Man.mp4
-#EXTINF:-1 group-title="Films" tvg-logo="https://image.tmdb.org/t/p/w500/m8X5HdADsW5YdmVNjwTOArMOUoL.jpg", Spider-Man 2
-https://cinefries.xyz/movies/Spider-Man-2.mp4
-#EXTINF:-1 group-title="Films" tvg-logo="https://image.tmdb.org/t/p/w500/hPkfodeYB0ZqBjxaynsEdXl0bbR.jpg", Spider-Man 3
-https://cinefries.xyz/movies/Spider-Man-3.mp4
-
 
 
 
@@ -200,6 +143,31 @@ LE CINQUIEME ELEMENT
 https://hfs310.serversicuro.cc/hls/,dnzpfluh5xg4a3gyvawx5ordtoec74kmi2w6av4vhgksjphstjdoep6iokza,.urlset/master.m3u8
 
 
+
+LES GARDIENS DE LA GALAXIE
+
+#EXTINF:-1 group-title="Films" tvg-logo="https://image.tmdb.org/t/p/w500/brgkPEPQJNGLuKRy8omRTcDfDuL.jpg", Les Gardiens de la Galaxie Vol. 2
+https://cinefries.xyz/movies/Les-Gardiens-de-la-Galaxie-Vol-2.mp4
+
+
+
+ANT-MAN
+
+#EXTINF:-1 group-title="Films" tvg-logo="https://image.tmdb.org/t/p/w500/2hq8EKF6kaUyOxB9KhmIb5JUxEe.jpg", Ant-Man et la Guêpe : Quantumania
+https://cinefries.xyz/movies/Ant-Man-et-la-Guepe-Quantumania.mp4
+
+
+
+BLACK PANTHER
+
+#EXTINF:-1 group-title="Films" tvg-logo="https://image.tmdb.org/t/p/w500/7cSyJcUf8twHn05h7PMQHv6tgFV.jpg", Black Panther : Wakanda Forever
+https://cinefries.xyz/movies/Black-Panther-Wakanda-Forever.mp4
+
+
+DOCTOR STRANGE
+
+#EXTINF:-1 group-title="Films" tvg-logo="https://image.tmdb.org/t/p/w500/arfzjn1tGvXWwkX7eaGVuXsc0mp.jpg", Doctor Strange in the Multiverse of Madness
+https://cinefries.xyz/movies/Doctor-Strange-in-the-Multiverse-of-Madness.mp4
 
 
 LES SIMPSON
@@ -258,6 +226,7 @@ ANIME
 https://cinefries.xyz/movies/Demon-Slayer-Kimetsu-no-Yaiba-Le-La-Forteresse-infinie.mp4
 #EXTINF:-1 group-title="Films" tvg-logo="https://image.tmdb.org/t/p/w500/cHcG6wXRPjIbeUqydKdG7r0oMmc.jpg", Chainsaw Man – Le Film : L'arc de Reze
 https://hfs322.serversicuro.cc/hls/,dnzpebls4dg4a3gyvdkx3nrezm4sz2vz2v3mcgq6qibzikqo5l5ajaufsdoa,.urlset/master.m3u8
+
 
 
 
