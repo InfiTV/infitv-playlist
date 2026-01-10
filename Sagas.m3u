@@ -20,3 +20,37 @@ https://cinefries.xyz/movies/Captain-America-Le-Soldat-de-l'hiver.mp4
 https://cinefries.xyz/movies/Captain-America-Civil-War.mp4
 #EXTINF:-1 group-title="Films" tvg-logo="https://image.tmdb.org/t/p/w500/wDRXmiAEJdhNIcuetM4016fOCx8.jpg", Captain America : Brave New World
 https://cinefries.xyz/movies/Captaine-America-Brave-New-World.mp4
+
+
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/original/cClJllWY3gPmoBvdbhO9MG14Q7P.jpg",Thor Collection
+http://dummy-cover
+#EXTINF:-1 group-title="Films" tvg-logo="https://image.tmdb.org/t/p/w500/q8pF6s9b9veTQvxTqMDIQf9nJKi.jpg", Thor
+https://cinefries.xyz/movies/Thor.mp4
+#EXTINF:-1 group-title="Films" tvg-logo="https://image.tmdb.org/t/p/w500/eAIGX0nlwlb5sMb4uDRGNFqMyG9.jpg", Thor : Le Monde des ténèbres
+https://cinefries.xyz/movies/Thor-Le-Monde-Des-Tenebres.mp4
+#EXTINF:-1 group-title="Films" tvg-logo="https://image.tmdb.org/t/p/w500/mAA8RXkgF87jSWWMSf6hgLl73mk.jpg", Thor : Ragnarok
+https://cinefries.xyz/movies/Thor-Ragnarok.mp4
+#EXTINF:-1 group-title="Films" tvg-logo="https://image.tmdb.org/t/p/w500/kSMarEm3ESOOr11dzsep2RZ1ClD.jpg", Thor : Love and Thunder
+https://cinefries.xyz/movies/Thor-Love-And-Thunder.mp4
+
+
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/original/qvWDDPlo2MT7YCU4NSVxCgStxqu.jpg",Avengers Collection
+http://dummy-cover
+#EXTINF:-1 group-title="Films" tvg-logo="https://image.tmdb.org/t/p/w500/ylsAO88v2tF0iXRFojPa0UaAJf1.jpg", Avengers
+https://cinefries.xyz/movies/Avengers.mp4
+#EXTINF:-1 group-title="Films" tvg-logo="https://image.tmdb.org/t/p/w500/oILpX52YLTnwz5BeQg9uC0eAM57.jpg", Avengers : L'Ère d'Ultron
+https://cinefries.xyz/movies/Avengers-L'Ere-d'Ultron.mp4
+#EXTINF:-1 group-title="Films" tvg-logo="https://image.tmdb.org/t/p/w500/hSfuKPtyEryeFzapZ8UgZd4aESu.jpg", Avengers : Infinity War
+https://cinefries.xyz/movies/Avengers-Infinity-War.mp4
+#EXTINF:-1 group-title="Films" tvg-logo="https://image.tmdb.org/t/p/w500/wF7jv3x51hXgkl7t5KHePuRjXc8.jpg", Avengers : Endgame
+https://cinefries.xyz/movies/Avengers-Endgame.mp4
+
+
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/original/mW2jg5bQjfY4oTzmdUNpqrY9GGB.jpg",Spider-Man (Sam Raimi) Collection
+http://dummy-cover
+#EXTINF:-1 group-title="Films" tvg-logo="https://image.tmdb.org/t/p/w500/pNz1NREgddPdlzytlR8mW4B26fW.jpg", Spider-Man
+https://cinefries.xyz/movies/Spider-Man.mp4
+#EXTINF:-1 group-title="Films" tvg-logo="https://image.tmdb.org/t/p/w500/m8X5HdADsW5YdmVNjwTOArMOUoL.jpg", Spider-Man 2
+https://cinefries.xyz/movies/Spider-Man-2.mp4
+#EXTINF:-1 group-title="Films" tvg-logo="https://image.tmdb.org/t/p/w500/hPkfodeYB0ZqBjxaynsEdXl0bbR.jpg", Spider-Man 3
+https://cinefries.xyz/movies/Spider-Man-3.mp4
