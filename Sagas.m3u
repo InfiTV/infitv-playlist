@@ -54,3 +54,21 @@ https://cinefries.xyz/movies/Spider-Man.mp4
 https://cinefries.xyz/movies/Spider-Man-2.mp4
 #EXTINF:-1 group-title="Films" tvg-logo="https://image.tmdb.org/t/p/w500/hPkfodeYB0ZqBjxaynsEdXl0bbR.jpg", Spider-Man 3
 https://cinefries.xyz/movies/Spider-Man-3.mp4
+
+
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/original/60aoW1EVSXLACkHn0lqeKlW6LhS.jpg",The Amazing Spider-Man Collection
+http://dummy-cover
+#EXTINF:-1 group-title="Films" tvg-logo="https://image.tmdb.org/t/p/w500/gsIkMf1VErbF0xtrgXEZXqLgsBG.jpg",The Amazing Spider-Man
+https://cinefries.xyz/movies/The-Amazing-Spider-Man.mp4
+#EXTINF:-1 group-title="Films" tvg-logo="https://image.tmdb.org/t/p/w500/rZ47R21ZGNTGr5ORxdMmxQWdcFn.jpg",The Amazing Spider-Man : Le Destin d'un héros
+https://cinefries.xyz/movies/The-Amazing-Spider-Man-Le-Destin-d'un-heros.mp4
+
+
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/original/3BVng0lmJyYIUqm5dxLS2eZ2625.jpg",Spider-Man (Avengers) Collection
+http://dummy-cover
+#EXTINF:-1 group-title="Films" tvg-logo="https://image.tmdb.org/t/p/w500/77Z0g5fc1qWJ7SfHyeiHsMkYx5O.jpg", Spider-Man : Homecoming
+https://cinefries.xyz/movies/Spider-Man-Homecoming.mp4
+#EXTINF:-1 group-title="Films" tvg-logo="https://image.tmdb.org/t/p/w500/9FkewgPxlMPjgKhFN7LaRJEqmCI.jpg", Spider-Man : Far From Home
+https://cinefries.xyz/movies/Spider-Man-Far-From-Home.mp4
+#EXTINF:-1 group-title="Films" tvg-logo="https://image.tmdb.org/t/p/w500/jwfDFqzxBkXC5bERBZrCEfK9iii.jpg", Spider-Man : No Way Home
+https://cinefries.xyz/movies/Spider-Man-No-Way-Home.mp4
