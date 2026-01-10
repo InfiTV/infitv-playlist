@@ -126,6 +126,7 @@ https://cinefries.xyz/movies/Spider-Man-No-Way-Home.mp4
 
 
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/original/jgL4XOWWjZPq9aROVDXdIAEBl3S.jpg",John Wick Collection
+http://dummy-cover
 #EXTINF:-1 group-title="Films" tvg-logo="https://image.tmdb.org/t/p/w500/orB4dHfZ9rOJbKYow7W0etezchl.jpg", John Wick
 https://cinefries.xyz/movies/John-Wick.mp4
 #EXTINF:-1 group-title="Films" tvg-logo="https://image.tmdb.org/t/p/w500/r687UV1zQ5KDB9AxRokRscWIRvt.jpg", John Wick : Chapitre 2
