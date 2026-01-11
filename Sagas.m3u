@@ -139,6 +139,20 @@ https://cinefries.xyz/movies/John-Wick-Chapitre-4.mp4
 https://cinefries.xyz/movies/Ballerina-2025.mp4
 
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/6cRRaK0wSbN4KJxGMAkTGYJ0zSX.jpg",Transformers Collection
+http://dummy-cover
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/riwrxn8gSdvHqARVxSlwMaEJxT3.jpg",Transformers
+https://cinefries.xyz/movies/Transformers.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/fgUlcYSp0iY1fJN9mPx6ZR50mjp.jpg",Transformers 2 : La Revanche
+https://cinefries.xyz/movies/Transformers-2-La-Revanche.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/30ARa1BLnID8t7O4tPzTDXTa6pZ.jpg",Transformers 3 : La Face cachée de la Lune
+https://cinefries.xyz/movies/Transformers-3-La-Face-Cachee-De-La-Lune.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/jX44v2Czbgg87DNnkB0efx0RtFs.jpg",Transformers : L’Âge de l’extinction
+https://cinefries.xyz/movies/Transformers-Lage-De-Lextinction.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/oGw5OVdGHx91f70MqJPCq4JlPN8.jpg",Transformers : The Last Knight
+https://cinefries.xyz/movies/Transformers-The-Last-Knight.mp4
+
+
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/original/mm2t5dd1QFxtX6X56Z9U5ucsIb1.jpg",Predator Collection
 http://dummy-cover
 #EXTINF:-1 group-title="Films" tvg-logo="https://media.themoviedb.org/t/p/original/lXoATMtTK3ZsICCvTtXygASHZd9.jpg", Predator
