@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="Films" tvg-logo="https://image.tmdb.org/t/p/w500/jMCBMmbyY6wRT0MD9xrCt3TeVFf.jpg", Le Million
+https://1a-1791.com/video/fww1/38/s8/2/s/I/i/P/sIiPz.aaa.mp4
+
 #EXTINF:-1 group-title="Films" tvg-logo="https://www.affiche-cine.com/images/thumb-1200x1600/30/affiche-cine-70869.jpg", Super-héros malgré lui
 https://cinefries.xyz/movies/Super-heros-malgre-lui.mp4
 
@@ -234,6 +237,7 @@ ANIME
 https://cinefries.xyz/movies/Demon-Slayer-Kimetsu-no-Yaiba-Le-La-Forteresse-infinie.mp4
 #EXTINF:-1 group-title="Films" tvg-logo="https://image.tmdb.org/t/p/w500/cHcG6wXRPjIbeUqydKdG7r0oMmc.jpg", Chainsaw Man – Le Film : L'arc de Reze
 https://1a-1791.com/video/fwe2/85/s8/2/u/Q/x/G/uQxGz.aaa.mp4
+
 
 
 
