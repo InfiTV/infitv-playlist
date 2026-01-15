@@ -125,6 +125,31 @@ https://cinedonuts.xyz/movies/Spider-Man-Far-From-Home.mp4
 https://cinedonuts.xyz/movies/Spider-Man-No-Way-Home.mp4
 
 
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/cKuTjUOCW2w6klACMOotvVy3LOM.jpg",Fast And Furious Collection
+http://dummy-cover
+#EXTINF:-1 group-title="Films" tvg-logo="https://image.tmdb.org/t/p/w500/gsW9S3K6oBLKVMMLuSvKwEPOKHc.jpg", Fast and Furious
+https://connyh.b-cdn.net/films/Fast-And-Furious.mp4
+#EXTINF:-1 group-title="Films" tvg-logo="https://image.tmdb.org/t/p/w500/riIa9UIxyhhOBIXI8vhpWmcesGB.jpg", 2 Fast 2 Furious
+https://connyh.b-cdn.net/films/2-Fast-2-Furious.mp4
+#EXTINF:-1 group-title="Films" tvg-logo="https://image.tmdb.org/t/p/w500/7t9FcL0wKVWCi6vq8Mv8R4tSLzj.jpg", Fast & Furious : Tokyo drift
+https://connyh.b-cdn.net/films/Fast-And-Furious-Tokyo-Drift.mp4
+#EXTINF:-1 group-title="Films" tvg-logo="https://image.tmdb.org/t/p/original/gfeS7erDlmSUmymmf4RVFVc4iiu.jpg", Fast & Furious 4
+https://connyh.b-cdn.net/films/Fast-and-Furious-4.mp4
+#EXTINF:-1 group-title="Films" tvg-logo="https://image.tmdb.org/t/p/original/7STjb7RLFODxHc9ZcskgQTOGdG5.jpg", Fast & Furious 5
+https://connyh.b-cdn.net/films/fast-and-furious-5.mp4
+#EXTINF:-1 group-title="Films" tvg-logo="https://image.tmdb.org/t/p/original/yXwsRF2T0VugGiBkXO29M1qraAI.jpg", Fast & Furious 6
+https://connyh.b-cdn.net/films/Fast-And-Furious-6.mp4
+#EXTINF:-1 group-title="Films" tvg-logo="https://image.tmdb.org/t/p/original/wjVn1Qng8B3ySvfJr4ovuehI141.jpg", Fast & Furious 7
+https://connyh.b-cdn.net/films/Fast-And-Furious-7.mp4
+#EXTINF:-1 group-title="Films" tvg-logo="https://image.tmdb.org/t/p/original/o0CtijH1wmupWYje2mfsiZ47yDK.jpg", Fast & Furious 8
+https://connyh.b-cdn.net/films/Fast-And-Furious-8.mp4
+#EXTINF:-1 group-title="Films" tvg-logo="https://image.tmdb.org/t/p/original/4Ph5gQn3PYJk98P31ln5hnsG04z.jpg", Fast & Furious 9
+https://connyh.b-cdn.net/films/Fast-And-Furious-9.mp4
+#EXTINF:-1 group-title="Films" tvg-logo="https://image.tmdb.org/t/p/original/v1467wvoQIXlVY5MtAqt3PUtOdH.jpg", Fast & Furious X
+https://cinedonuts.xyz/movies/Fast-and-Furious-X.mp4
+
+
+
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/original/jgL4XOWWjZPq9aROVDXdIAEBl3S.jpg",John Wick Collection
 http://dummy-cover
 #EXTINF:-1 group-title="Films" tvg-logo="https://image.tmdb.org/t/p/w500/orB4dHfZ9rOJbKYow7W0etezchl.jpg", John Wick
