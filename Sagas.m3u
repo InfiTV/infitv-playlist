@@ -152,6 +152,16 @@ https://cinedonuts.xyz/movies/Transformers-Lage-De-Lextinction.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/oGw5OVdGHx91f70MqJPCq4JlPN8.jpg",Transformers : The Last Knight
 https://cinedonuts.xyz/movies/Transformers-The-Last-Knight.mp4
 
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/ee1TdZpvSJ2O1fda2orJvLiJ74R.jpg",The Dark Knight Collection
+http://dummy-cover
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/taKcn26BMWnsUcMFSlr5RfGDtFB.jpg",Batman Begins
+https://cinedonuts.xyz/movies/Batman-Begins.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/pyNXnq8QBWoK3b37RS6C3axwUOy.jpg",The Dark Knight : Le Chevalier noir
+https://connyh.b-cdn.net/films/The-Dark-Knight-Le-Chevalier-Noir.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/ApcGBERN0p9I0nDOIwJeEmpnLU5.jpg",The Dark Knight Rises
+https://connyh.b-cdn.net/films/The-Dark-Knight-Rises.mp4
+
+
 
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/original/mm2t5dd1QFxtX6X56Z9U5ucsIb1.jpg",Predator Collection
 http://dummy-cover
