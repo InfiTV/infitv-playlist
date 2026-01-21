@@ -205,3 +205,29 @@ https://moov265724.moovtop.fr/files/aa/hO5TXfeuWesmWQtMbflTld3qpO7RRsg8hl1.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/6mHkagjziBPth2Mx0VpEercocm4.jpg",Star Wars Collection
+http://dummy-cover
+#EXTINF:-1 group-title="Films" tvg-logo="https://image.tmdb.org/t/p/original/fpEC910v5DrMvZteRNlKzXeHiHY.jpg", Star Wars, épisode I - La Menace fantôme
+https://broty.b-cdn.net/films/Star-Wars-Episode-I-La-Menace-Phantom.mp4
+#EXTINF:-1 group-title="Films" tvg-logo="https://image.tmdb.org/t/p/original/3nqpcTkODCBhuKuDQJ1dtRhgTqZ.jpg", Star Wars, épisode II - L'Attaque des clones
+https://broty.b-cdn.net/films/Star-Wars-Episode-Ii-Lattaque-Des-Clones.mp4
+#EXTINF:-1 group-title="Films" tvg-logo="https://image.tmdb.org/t/p/original/2RcBuU8cdxFxCJibbiYCGNLApfz.jpg", Star Wars, épisode III - La Revanche des Sith
+https://broty.b-cdn.net/films/Star-Wars-Episode-Iii-La-Revanche-Des-Sith.mp4
+#EXTINF:-1 group-title="Films" tvg-logo="https://www.themoviedb.org/t/p/original/oMCIfJMezZeJvLK124uj4T0BpAy.jpg", Solo – A Star Wars Story
+https://broty.b-cdn.net/films/Solo-A-Star-Wars-Story.mp4
+#EXTINF:-1 group-title="Films" tvg-logo="https://www.themoviedb.org/t/p/original/obsGPyNOAwkQbLRQOHR6a21VT23.jpg", Rogue One : A Star Wars Story
+https://broty.b-cdn.net/films/Rogue-One-A-Star-Wars-Story.mp4
+#EXTINF:-1 group-title="Films" tvg-logo="https://image.tmdb.org/t/p/original/qelTNHrBSYjPvwdzsDBPVsqnNzc.jpg", Star Wars, épisode IV :  La Guerre des étoiles
+https://broty.b-cdn.net/films/La-Guerre-Des-Etoiles.mp4
+#EXTINF:-1 group-title="Films" tvg-logo="https://image.tmdb.org/t/p/original/qDvctAykmNWAmi9G2GrVrwWx3pr.jpg", Star Wars, épisode V : L'Empire contre-attaque
+https://broty.b-cdn.net/films/Lempire-Contre-Attaque.mp4
+#EXTINF:-1 group-title="Films" tvg-logo="https://image.tmdb.org/t/p/original/tEQlCGiiWvMvfD7Sz8d99Pouy39.jpg", Star Wars, épisode VI : Le retour du Jedi
+https://broty.b-cdn.net/films/Le-Retour-Du-Jedi.mp4
+#EXTINF:-1 group-title="Films" tvg-logo="https://www.themoviedb.org/t/p/original/zKZ1iF1ABqL7a16u6Im8JTQKp7H.jpg", Star Wars, épisode VII : Le Réveil de la Force
+https://broty.b-cdn.net/films/Star-Wars-Le-Reveil-De-La-Force.mp4
+#EXTINF:-1 group-title="Films" tvg-logo="https://www.themoviedb.org/t/p/original/pS80gMevVINVyrwEHrILOxqwdAY.jpg", Star Wars, épisode VIII : Les Derniers Jedi
+https://broty.b-cdn.net/films/Star-Wars-Les-Derniers-Jedi.mp4
+#EXTINF:-1 group-title="Films" tvg-logo="https://www.themoviedb.org/t/p/original/1pQc75SdFOKpo2AqoL58z5kF3YI.jpg", Star Wars, épisode IX : L’Ascension de Skywalker
+https://broty.b-cdn.net/films/Star-Wars-Lascension-De-Skywalker.mp4
+
+
