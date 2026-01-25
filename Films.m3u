@@ -13,10 +13,10 @@ https://ds19.dropcdn.io/hls2/01/00329/umo1vdzj7dgp_h/master.m3u8?t=8htOMxm4rs73h
 https://bram94761.bramtiv.com/files/aa/NPZlsWyHJu2vMQQu81DJj5jMeMsgeZ51P4n.m3u8
 
 #EXTINF:-1 group-title="Films" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/93XDwOGPFh4HJEMmOSSrWL29tOM.jpg", McWalter
-https://broty.b-cdn.net/films/McWalter.mp4
+https://ds3.dropcdn.io/hls2/02/00330/48k1e3jxvx4k_h/master.m3u8?t=00e1XW48DGY2h9mAILNCKn2Qf23GnC-zS0CYn7rnwDY&s=1769367226&e=14400&f=1650076&i=0.0&sp=0&ii=174.240.28.214
 
 #EXTINF:-1 group-title="Films" tvg-logo="https://image.tmdb.org/t/p/w500/kXz2i96ED9FaauvUvupLrXdB1mo.jpg", Good Boy
-https://broty.b-cdn.net/films/good-boy-2025-2025.mp4
+https://ds16.dropcdn.io/hls2/03/00329/i1m26p63i736_h/master.m3u8?t=MVJB2j02RcVsvcJjYS_cFLYF9cOwH0gwvMgR3ERRTJ8&s=1769367267&e=14400&f=1650701&srv=ds1&i=0.0&sp=0&ii=174.240.28.214&p1=ds1&p2=ds1
 
 #EXTINF:-1 group-title="Films" tvg-logo="https://image.tmdb.org/t/p/w500/h4vaRtMxokNjU1IDWouQxK6eN0o.jpg", Un journée incontrôlable
 https://moov86131.moovtop.fr/files/aa/ZcVm2FMR2vyrOz2jiQQqEhNrsp5Nl6XliTH.m3u8
@@ -277,6 +277,7 @@ ANIME
 https://broty.b-cdn.net/films/demon-slayer-kimetsu-no-yaiba-infinity-castle-2025.mp4
 #EXTINF:-1 group-title="Films" tvg-logo="https://image.tmdb.org/t/p/w500/cHcG6wXRPjIbeUqydKdG7r0oMmc.jpg", Chainsaw Man – Le Film : L'arc de Reze
 https://1a-1791.com/video/fwe2/85/s8/2/u/Q/x/G/uQxGz.aaa.mp4
+
 
 
 
