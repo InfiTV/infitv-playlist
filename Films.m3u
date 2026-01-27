@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="Films" tvg-logo="https://media.themoviedb.org/t/p/w500/hBI7Wrps6tDjhEzBxJgoPLhbmT1.jpg", Zootopie 2
+https://moo265724.moovbob.fr/files/aa/TeJf8DWhWqfcMc6w6hBozDV0otmSP5yJkiY.m3u8
+
 #EXTINF:-1 group-title="Films" tvg-logo="https://image.tmdb.org/t/p/w500/eaQ0cSWisBLkAh5RxYmt9fR5QCX.jpg", The Rip
 https://moov265724.moovtop.fr/files/aa/9PYwGm7LjiU5KUqS7hDfqE5KelG6bbcl0bS.m3u8
 
@@ -197,20 +200,20 @@ https://vz-86ac969b-6d3.b-cdn.net/4abb4f16-786c-4328-9262-adbf494f8708/playlist.
 BLACK PANTHER
 
 #EXTINF:-1 group-title="Films" tvg-logo="https://image.tmdb.org/t/p/w500/7cSyJcUf8twHn05h7PMQHv6tgFV.jpg", Black Panther : Wakanda Forever
-https://broty.b-cdn.net/films/Black-Panther-Wakanda-Forever.mp4
+https://vz-86ac969b-6d3.b-cdn.net/6ae37aed-4dd6-4954-b6d1-179bb1b984b7/playlist.m3u8
 
 
 DOCTOR STRANGE
 
 #EXTINF:-1 group-title="Films" tvg-logo="https://image.tmdb.org/t/p/w500/arfzjn1tGvXWwkX7eaGVuXsc0mp.jpg", Doctor Strange in the Multiverse of Madness
-https://broty.b-cdn.net/films/Doctor-Strange-In-The-Multiverse-Of-Madness.mp4
+https://vz-86ac969b-6d3.b-cdn.net/5a2394ad-1974-4d27-96bd-58f7c99c9a04/playlist.m3u8
 
 
 WAYNE WORLD'S
 #EXTINF:-1 group-title="Films" tvg-logo="https://image.tmdb.org/t/p/w500/R8Q9qIl51SHtcX5oWSBbz4YhQV.jpg", Wayne's World
-https://broty.b-cdn.net/films/waynes-world-1992.mp4
+https://vz-86ac969b-6d3.b-cdn.net/8cc91f1a-f227-4d38-9189-519db42070fe/playlist.m3u8
 #EXTINF:-1 group-title="Films" tvg-logo="https://image.tmdb.org/t/p/w500/e6CJBYOViLtpd3z5wPuUKiUgOZT.jpg", Wayne's World 2
-https://broty.b-cdn.net/films/waynes-world-2-1993.mp4
+https://vz-86ac969b-6d3.b-cdn.net/c97ebf63-017f-4fbf-b6f8-033700f65b69/playlist.m3u8
 
 
 LES SIMPSON
@@ -221,12 +224,10 @@ https://1a-1791.com/video/fww1/77/s8/2/w/N/u/K/wNuKz.aaa.mp4
 
 
 
-ZOOTOPIE
+ZOOTOPIE 1
 
 #EXTINF:-1 group-title="Films" tvg-logo="https://image.tmdb.org/t/p/w500/xEx4dHi2IrTB0vkVPccrGrMcZQW.jpg", Zootopie
 https://1a-1791.com/video/fwe2/b3/s8/2/-/m/N/q/-mNqz.aaa.mp4
-#EXTINF:-1 group-title="Films" tvg-logo="https://media.themoviedb.org/t/p/w500/hBI7Wrps6tDjhEzBxJgoPLhbmT1.jpg", Zootopie 2
-https://moo265724.moovbob.fr/files/aa/TeJf8DWhWqfcMc6w6hBozDV0otmSP5yJkiY.m3u8
 
 
 
@@ -271,6 +272,7 @@ ANIME
 https://1a-1791.com/video/fww1/1a/s8/2/a/2/p/M/a2pMz.aaa.mp4
 #EXTINF:-1 group-title="Films" tvg-logo="https://image.tmdb.org/t/p/w500/cHcG6wXRPjIbeUqydKdG7r0oMmc.jpg", Chainsaw Man – Le Film : L'arc de Reze
 https://1a-1791.com/video/fwe2/85/s8/2/u/Q/x/G/uQxGz.aaa.mp4
+
 
 
 
