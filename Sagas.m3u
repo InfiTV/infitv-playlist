@@ -153,13 +153,13 @@ https://vz-86ac969b-6d3.b-cdn.net/57bb738a-24e9-4548-b027-f5df02a4d0bc/playlist.
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/original/jgL4XOWWjZPq9aROVDXdIAEBl3S.jpg",John Wick Collection
 http://dummy-cover
 #EXTINF:-1 group-title="Films" tvg-logo="https://image.tmdb.org/t/p/w500/orB4dHfZ9rOJbKYow7W0etezchl.jpg", John Wick
-https://broty.b-cdn.net/films/john-wick-2014-2014.mp4
+https://vz-86ac969b-6d3.b-cdn.net/3ea02074-e977-4001-8b49-9809e87f8a81/playlist.m3u8
 #EXTINF:-1 group-title="Films" tvg-logo="https://image.tmdb.org/t/p/w500/r687UV1zQ5KDB9AxRokRscWIRvt.jpg", John Wick : Chapitre 2
-https://broty.b-cdn.net/films/John-Wick-2.mp4
+https://vz-86ac969b-6d3.b-cdn.net/4abe647c-c97d-4bd5-b77f-1f1cbb5700ff/playlist.m3u8
 #EXTINF:-1 group-title="Films" tvg-logo="https://image.tmdb.org/t/p/w500/8gd71hpzHIF3gCkmJBwV5egtu3k.jpg", John Wick : Parabellum
-https://broty.b-cdn.net/films/John-Wick-Parabellum.mp4
+https://vz-86ac969b-6d3.b-cdn.net/281d0280-8f36-4898-a4d2-e98c93cc1846/playlist.m3u8
 #EXTINF:-1 group-title="Films" tvg-logo="https://image.tmdb.org/t/p/w500/n1YTIyhAqqqFyDGFTzV7WaU1JfK.jpg", John Wick : Chapitre 4
-https://broty.b-cdn.net/films/john-wick-chapitre-4.mp4
+https://vz-86ac969b-6d3.b-cdn.net/4d7f268e-7cb8-4bdf-beb5-0d2de52ac6ae/playlist.m3u8
 #EXTINF:-1 group-title="Films" tvg-logo="https://image.tmdb.org/t/p/w500/cAMk3C3uUbwSgoZ6EMoPjXI2tt.jpg", Ballerina
 https://bram94761.bramtiv.com/files/aa/LUJSUxdwX7CdRowVQvcdZYrbukK80wSLqCD.m3u8
 
@@ -167,7 +167,7 @@ https://bram94761.bramtiv.com/files/aa/LUJSUxdwX7CdRowVQvcdZYrbukK80wSLqCD.m3u8
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/6cRRaK0wSbN4KJxGMAkTGYJ0zSX.jpg",Transformers Collection
 http://dummy-cover
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/riwrxn8gSdvHqARVxSlwMaEJxT3.jpg",Transformers
-https://vz-86ac969b-6d3.b-cdn.net/5ab0762d-9174-44db-8b11-cf2b6eef87eb/play_720p.mp4
+https://vz-86ac969b-6d3.b-cdn.net/5ab0762d-9174-44db-8b11-cf2b6eef87eb/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/fgUlcYSp0iY1fJN9mPx6ZR50mjp.jpg",Transformers 2 : La Revanche
 https://broty.b-cdn.net/films/Transformers-2-La-Revanche.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/30ARa1BLnID8t7O4tPzTDXTa6pZ.jpg",Transformers 3 : La Face cachée de la Lune
