@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="Films" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/ec0bwYUEYBhcHutx4nIShLzX7Dl.jpg", Team Démolition
+#EXTINF:-1 group-title="Films" tvg-logo="https://image.tmdb.org/t/p/original/bSxrsdXfNS6IkNqRdOnp5rvwTwK.jpg", Team Démolition
 https://moo265724.moovbob.fr/files/aa/gkbfXUB7Kqmp1oUzfXDJF2D03Qz4jtvANGQ.m3u8
 
 #EXTINF:-1 group-title="Films" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/5EbKjIowNw5yExzrhvu231GFVCf.jpg", Anaconda
@@ -281,6 +281,7 @@ ANIME
 https://1a-1791.com/video/fww1/1a/s8/2/a/2/p/M/a2pMz.aaa.mp4
 #EXTINF:-1 group-title="Films" tvg-logo="https://image.tmdb.org/t/p/w500/cHcG6wXRPjIbeUqydKdG7r0oMmc.jpg", Chainsaw Man – Le Film : L'arc de Reze
 https://1a-1791.com/video/fwe2/85/s8/2/u/Q/x/G/uQxGz.aaa.mp4
+
 
 
 
