@@ -202,6 +202,9 @@ https://vz-86ac969b-6d3.b-cdn.net/e9b1bd46-98ff-474d-afc4-4a9b4663ee47/playlist.
 https://vz-86ac969b-6d3.b-cdn.net/1a8a9d8a-36a2-4fa0-90b7-4fe8b7bb942c/playlist.m3u8
 #EXTINF:-1 group-title="Saison 2 Fallout" tvg-logo="https://image.tmdb.org/t/p/w500/2tQFlbjRLo2bvD6Ze13LMSowyGR.jpg", Fallout S02E06
 https://vz-86ac969b-6d3.b-cdn.net/37c3d0e7-d64d-4fad-8aec-3b1879a8e340/playlist.m3u8
+#EXTINF:-1 group-title="Saison 2 Fallout" tvg-logo="https://image.tmdb.org/t/p/w500/2tQFlbjRLo2bvD6Ze13LMSowyGR.jpg", Fallout S02E07
+https://vz-86ac969b-6d3.b-cdn.net/281c6101-fc50-47c8-afb0-1fb3f24826c1/playlist.m3u8
+
 
 
 SERIES
@@ -229,25 +232,27 @@ series
 HIJACK
 
 #EXTINF:-1 group-title="Saison 1 Hijack" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/3QL5fgnSy5NJn1oZTwasGupFI5m.jpg", Hijack S01E01
-https://broty.b-cdn.net/series/hijack-S01e01.mp4
+https://vz-86ac969b-6d3.b-cdn.net/b1961fb6-953f-4590-8478-8f6c44396be1/playlist.m3u8
 #EXTINF:-1 group-title="Saison 1 Hijack" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/3QL5fgnSy5NJn1oZTwasGupFI5m.jpg", Hijack S01E02
-https://broty.b-cdn.net/series/hijack-S01e02.mp4
+https://vz-86ac969b-6d3.b-cdn.net/18a0af31-4d08-452a-b197-611135b6a593/playlist.m3u8
 #EXTINF:-1 group-title="Saison 1 Hijack" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/3QL5fgnSy5NJn1oZTwasGupFI5m.jpg", Hijack S01E03
-https://broty.b-cdn.net/series/hijack-S01e03.mp4
+https://vz-86ac969b-6d3.b-cdn.net/5fdd51ac-d226-441a-9a05-d58081947f36/playlist.m3u8
 #EXTINF:-1 group-title="Saison 1 Hijack" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/3QL5fgnSy5NJn1oZTwasGupFI5m.jpg", Hijack S01E04
-https://broty.b-cdn.net/series/hijack-S01e04.mp4
+https://vz-86ac969b-6d3.b-cdn.net/1348485b-1bc8-4b3a-aabb-0cc0d710d761/playlist.m3u8
 #EXTINF:-1 group-title="Saison 1 Hijack" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/3QL5fgnSy5NJn1oZTwasGupFI5m.jpg", Hijack S01E05
-https://broty.b-cdn.net/series/hijack-S01e05.mp4
+https://vz-86ac969b-6d3.b-cdn.net/896326c6-7b7a-43bd-8266-b27ef6436745/playlist.m3u8
 #EXTINF:-1 group-title="Saison 1 Hijack" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/3QL5fgnSy5NJn1oZTwasGupFI5m.jpg", Hijack S01E06
-https://broty.b-cdn.net/series/hijack-S01e06.mp4
+https://vz-86ac969b-6d3.b-cdn.net/69e094fc-4e8a-4f92-a1a8-7e298fac0b06/playlist.m3u8
 #EXTINF:-1 group-title="Saison 1 Hijack" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/3QL5fgnSy5NJn1oZTwasGupFI5m.jpg", Hijack S01E07
-https://broty.b-cdn.net/series/hijack-S01e07.mp4
+https://vz-86ac969b-6d3.b-cdn.net/f3a2450e-952d-467e-b5d2-f9400ee1e31b/playlist.m3u8
 
 
 #EXTINF:-1 group-title="Saison 2 Hijack" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/3QL5fgnSy5NJn1oZTwasGupFI5m.jpg", Hijack S02E01
-https://broty.b-cdn.net/series/hijack-S02e01.mp4
+https://vz-86ac969b-6d3.b-cdn.net/965fdefc-1825-4e32-b6b0-582e94c9d574/playlist.m3u8
 #EXTINF:-1 group-title="Saison 2 Hijack" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/3QL5fgnSy5NJn1oZTwasGupFI5m.jpg", Hijack S02E02
-https://broty.b-cdn.net/series/hijack-S02e02.mp4
+https://vz-86ac969b-6d3.b-cdn.net/625b36a2-2922-40aa-bb1c-1dcb49b74058/playlist.m3u8
+#EXTINF:-1 group-title="Saison 2 Hijack" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/3QL5fgnSy5NJn1oZTwasGupFI5m.jpg", Hijack S02E03
+https://vz-86ac969b-6d3.b-cdn.net/85b8db52-508f-4dc5-b62b-3128fe2b5667/playlist.m3u8
 
 
 
