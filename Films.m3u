@@ -6,12 +6,6 @@ https://moo265724.moovbob.fr/files/aa/gkbfXUB7Kqmp1oUzfXDJF2D03Qz4jtvANGQ.m3u8
 #EXTINF:-1 group-title="Films" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/5EbKjIowNw5yExzrhvu231GFVCf.jpg", Anaconda
 https://moo265724.moovbob.fr/files/aa/mSrO3pkr0wLUNNrABILRrl2tePbxeD4Avvp.m3u8
 
-#EXTINF:-1 group-title="Films" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/eKJuMcZVtZFpfhScMcHMtZamttG.jpg", Twilight Love : 3 mètres au-dessus du ciel
-https://vz-86ac969b-6d3.b-cdn.net/ea6ab6cd-9a8e-468d-a49e-b17355635b38/playlist.m3u8
-
-#EXTINF:-1 group-title="Films" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/6cMUhlsGRSyyfqwVCkiyQOyoSOV.jpg", Twilight Love 2 : J'ai envie de toi
-https://vz-86ac969b-6d3.b-cdn.net/42c4a63b-5db6-4ef0-8c0a-6cbcbff79373/playlist.m3u8
-
 #EXTINF:-1 group-title="Films" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/zVC2D6cfVmtI3dGAd9Fjxu6SW7c.jpg", Ballerina Assassin 
 https://moo265724.moovbob.fr/files/aa/WEOs3RBiOSJzSTX3TrhlHOhzjRQJOdRKSGc.m3u8
 
@@ -44,6 +38,12 @@ https://bram86131.bramtiv.com/files/aa/nenguAh9ZM6AwRdxg7wSEHEh4A1nXsSkHgB.m3u8
 
 #EXTINF:-1 group-title="Films" tvg-logo="https://image.tmdb.org/t/p/w500/d9mrvLetkCZaS2wDhAeWsL9J1kY.jpg", Roofman
 https://bram86131.bramtiv.com/files/aa/9dmkhq3wvygh8rVKX5qlvch2QB2uVfp4sLo.m3u8
+
+#EXTINF:-1 group-title="Films" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/eKJuMcZVtZFpfhScMcHMtZamttG.jpg", Twilight Love : 3 mètres au-dessus du ciel
+https://vz-86ac969b-6d3.b-cdn.net/ea6ab6cd-9a8e-468d-a49e-b17355635b38/playlist.m3u8
+
+#EXTINF:-1 group-title="Films" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/6cMUhlsGRSyyfqwVCkiyQOyoSOV.jpg", Twilight Love 2 : J'ai envie de toi
+https://vz-86ac969b-6d3.b-cdn.net/42c4a63b-5db6-4ef0-8c0a-6cbcbff79373/playlist.m3u8
 
 #EXTINF:-1 group-title="Films" tvg-logo="https://image.tmdb.org/t/p/w500/dIOzuzx0CLYpNLx1Yf44cykyYX5.jpg", Y a-t-il un flic pour sauver le monde ?
 https://vz-86ac969b-6d3.b-cdn.net/22a914dd-856f-429d-9c10-9e24fa858942/playlist.m3u8
@@ -287,6 +287,7 @@ ANIME
 https://1a-1791.com/video/fww1/1a/s8/2/a/2/p/M/a2pMz.aaa.mp4
 #EXTINF:-1 group-title="Films" tvg-logo="https://image.tmdb.org/t/p/w500/cHcG6wXRPjIbeUqydKdG7r0oMmc.jpg", Chainsaw Man – Le Film : L'arc de Reze
 https://1a-1791.com/video/fwe2/85/s8/2/u/Q/x/G/uQxGz.aaa.mp4
+
 
 
 
