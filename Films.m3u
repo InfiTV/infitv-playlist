@@ -1,10 +1,19 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="Films" tvg-logo="https://www.themoviedb.org/t/p/original/hLKoSzjOPC8tQaA2AmFvDjBbKTw.jpg" Lucy
+https://vz-86ac969b-6d3.b-cdn.net/0747154d-4336-4d07-8e58-2a2bdb08c3f3/playlist.m3u8
+
 #EXTINF:-1 group-title="Films" tvg-logo="https://image.tmdb.org/t/p/original/bSxrsdXfNS6IkNqRdOnp5rvwTwK.jpg", Team Démolition
 https://moo265724.moovbob.fr/files/aa/gkbfXUB7Kqmp1oUzfXDJF2D03Qz4jtvANGQ.m3u8
 
 #EXTINF:-1 group-title="Films" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/5EbKjIowNw5yExzrhvu231GFVCf.jpg", Anaconda
 https://moo265724.moovbob.fr/files/aa/mSrO3pkr0wLUNNrABILRrl2tePbxeD4Avvp.m3u8
+
+#EXTINF:-1 group-title="Films" tvg-logo="https://media.themoviedb.org/t/p/original/pK973EDXScWCILeiFOKueGsj5Hv.jpg", L'Homme qui rétrécit
+https://bram265724.bramtiv.com/files/aa/WtmGZgkEZcOTJnQaNB7RnL2hzzY85mt2PQI.m3u8
+
+#EXTINF:-1 group-title="Films" tvg-logo="https://media.themoviedb.org/t/p/original/uh8nwCFx9zFRJeiDUg4SxQ7Koug.jpg", Fear Below : Plongée Sous Pression
+https://moo265724.moovbob.fr/files/aa/xx7wlBhZ5fsLleRCKViIOp0f2Tcna8QIFYe.m3u8
 
 #EXTINF:-1 group-title="Films" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/zVC2D6cfVmtI3dGAd9Fjxu6SW7c.jpg", Ballerina Assassin 
 https://moo265724.moovbob.fr/files/aa/WEOs3RBiOSJzSTX3TrhlHOhzjRQJOdRKSGc.m3u8
@@ -22,7 +31,7 @@ https://moov86131.moovtop.fr/files/aa/iI7IgHO9EYllNL0bMHpcmBHXBpcH9l2s49a.m3u8
 https://vz-86ac969b-6d3.b-cdn.net/3510c4fa-4561-4587-b737-eea2dd857811/playlist.m3u8
 
 #EXTINF:-1 group-title="Films" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/s2d4P7XZUA4rwNK4il7gMptxd7M.jpg", La boum
-https://zebi.topstrime.online/movie/166/free-4wmep7/master.m3u8
+https://vz-86ac969b-6d3.b-cdn.net/8c4992d1-fcc9-4c98-ba98-85bcfd98951b/playlist.m3u8
 
 #EXTINF:-1 group-title="Films" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/phoIMSPh8eFIjqkmo2IsDICOskd.jpg", La boum 2
 https://vz-86ac969b-6d3.b-cdn.net/095de9d0-237e-4175-b4e8-770bf5a96c3d/playlist.m3u8
@@ -293,6 +302,7 @@ ANIME
 https://1a-1791.com/video/fww1/1a/s8/2/a/2/p/M/a2pMz.aaa.mp4
 #EXTINF:-1 group-title="Films" tvg-logo="https://image.tmdb.org/t/p/w500/cHcG6wXRPjIbeUqydKdG7r0oMmc.jpg", Chainsaw Man – Le Film : L'arc de Reze
 https://1a-1791.com/video/fwe2/85/s8/2/u/Q/x/G/uQxGz.aaa.mp4
+
 
 
 
