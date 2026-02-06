@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="Films" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/lpGO3awiI5NtaCDNYklQDBWXR0N.jpg", Exit 8
+https://bram265724.bramtiv.com/files/aa/99bc5C55tcv7cQ5USSshszwSfURjL57Vfi7E.m3u8
+
 #EXTINF:-1 group-title="Films" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/z12rRVkxyp8VZI3v3cFlxjW1gO4.jpg", La femme de ménage
 https://moo265724.moovbob.fr/files/aa/2z9kdqQTZIFxdTc01M4dvIE5Q7Jc1JF3iPo.m3u8
 
@@ -305,6 +308,7 @@ ANIME
 https://1a-1791.com/video/fww1/1a/s8/2/a/2/p/M/a2pMz.aaa.mp4
 #EXTINF:-1 group-title="Films" tvg-logo="https://image.tmdb.org/t/p/w500/cHcG6wXRPjIbeUqydKdG7r0oMmc.jpg", Chainsaw Man – Le Film : L'arc de Reze
 https://1a-1791.com/video/fwe2/85/s8/2/u/Q/x/G/uQxGz.aaa.mp4
+
 
 
 
