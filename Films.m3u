@@ -1,5 +1,20 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="Films" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/EytpPm6ylyKcEeVLEhKY3VL2Gi.jpg", Twisters
+https://bram94761.bramtiv.com/files/aa/j6sUXlYiHmJ5g3zowA8ShcYfVRPj8zDsF6m.m3u8
+
+#EXTINF:-1 group-title="Films" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/xUtonm2aIu6Ep4BrSSKjN4uXSIP.jpg", TTwisted
+https://moov265724.moovtop.fr/files/aa/Poi4Jq8tvjupK8v5Hlh6KePmCU0F98DZxW3.m3u8
+
+#EXTINF:-1 group-title="Films" tvg-logo="https://i.imgur.com/CsSOPwj.jpeg", TKT T'inquiète
+https://moov265724.moovtop.fr/files/aa/a072h5DgrNUkeR2McARBxYCMY9tFZrj9rrc.m3u8
+
+#EXTINF:-1 group-title="Films" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/8zPExowfpfZOTpS1W4J7G27lH4H.jpg", F*ck Valentine’s Day
+https://moo265724.moovbob.fr/files/aa/3hJMtHyGJ1xYgjTeNzQSCbEI3uZWxSTBaCn.m3u8
+
+#EXTINF:-1 group-title="Films" tvg-logo="https://i.imgur.com/9kJuwvo.jpeg", C'était mieux demain
+https://moo265724.moovbob.fr/files/aa/OxjycG8UKWtw9prZfYJ6KGvwunwRiOR7laF.m3u8
+
 #EXTINF:-1 group-title="Films" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/dSkSEcVXUEBvOkyYAF00zvRdKrO.jpg", Je suis une légende
 https://vz-86ac969b-6d3.b-cdn.net/f08843e0-767f-491f-9c58-247f050cdeec/playlist.m3u8
 
@@ -311,6 +326,7 @@ ANIME
 https://1a-1791.com/video/fww1/1a/s8/2/a/2/p/M/a2pMz.aaa.mp4
 #EXTINF:-1 group-title="Films" tvg-logo="https://image.tmdb.org/t/p/w500/cHcG6wXRPjIbeUqydKdG7r0oMmc.jpg", Chainsaw Man – Le Film : L'arc de Reze
 https://1a-1791.com/video/fwe2/85/s8/2/u/Q/x/G/uQxGz.aaa.mp4
+
 
 
 
