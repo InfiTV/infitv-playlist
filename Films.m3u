@@ -21,7 +21,7 @@ https://streamelia.site/api/video/s/e96202f9d0be86a9
 #EXTINF:-1 group-title="Films" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/hfMMazpaneI5dMeTT8zZwJib0wt.jpg", Dust Bunny
 https://bram265724.bramtiv.com/files/aa/XUMk6GnOmPdWxYobFvu9CKuVnNaNtnJqiwK.m3u8
 
-#EXTINF:-1 group-title="Films" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/cq9z69AyIXeL2H14bqHE5ukm3M9.jpg", Minecraft, Le Film 
+#EXTINF:-1 group-title="Films" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/cq9z69AyIXeL2H14bqHE5ukm3M9.jpg", Minecraft Le Film 
 https://bram94761.bramtiv.com/files/aa/oUXuj1xi2XpoCiMmZFoKHO6SnnDreF7CA57.m3u8
 
 #EXTINF:-1 group-title="Films" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/ahMxyHMSJXingQr4yJBMzMU9k42.jpg", Super Mario Bros Le Film
@@ -30,7 +30,7 @@ https://streamelia.site/api/video/s/399cf590b642b1db
 #EXTINF:-1 group-title="Films" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/EytpPm6ylyKcEeVLEhKY3VL2Gi.jpg", Twisters
 https://bram94761.bramtiv.com/files/aa/j6sUXlYiHmJ5g3zowA8ShcYfVRPj8zDsF6m.m3u8
 
-#EXTINF:-1 group-title="Films" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/xUtonm2aIu6Ep4BrSSKjN4uXSIP.jpg", TTwisted
+#EXTINF:-1 group-title="Films" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/xUtonm2aIu6Ep4BrSSKjN4uXSIP.jpg", Twisted
 https://moov265724.moovtop.fr/files/aa/Poi4Jq8tvjupK8v5Hlh6KePmCU0F98DZxW3.m3u8
 
 #EXTINF:-1 group-title="Films" tvg-logo="https://i.imgur.com/CsSOPwj.jpeg", TKT T'inquiète
@@ -353,6 +353,7 @@ ANIME
 https://1a-1791.com/video/fww1/1a/s8/2/a/2/p/M/a2pMz.aaa.mp4
 #EXTINF:-1 group-title="Films" tvg-logo="https://image.tmdb.org/t/p/w500/cHcG6wXRPjIbeUqydKdG7r0oMmc.jpg", Chainsaw Man – Le Film : L'arc de Reze
 https://1a-1791.com/video/fwe2/85/s8/2/u/Q/x/G/uQxGz.aaa.mp4
+
 
 
 
