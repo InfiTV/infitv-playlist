@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="Films" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/jfwHKRHRE2X4NTexdzblaioHH51.jpg", Love Me Love Me
+https://moo265724.moovbob.fr/files/aa/r0QicQXbcRqAQz7GrKd4z698O95fsbRTcIc.m3u8
+
 #EXTINF:-1 group-title="Films" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/jN0xIYBgkfSWIMqhJlQMyPY29ti.jpg", Qu'est-ce qu'on a tous fait au Bon Dieu ?
 https://vz-86ac969b-6d3.b-cdn.net/5ff6ec5d-6528-42a1-a1e6-1f8ad00552bf/playlist.m3u8
 
@@ -344,6 +347,7 @@ ANIME
 https://1a-1791.com/video/fww1/1a/s8/2/a/2/p/M/a2pMz.aaa.mp4
 #EXTINF:-1 group-title="Films" tvg-logo="https://image.tmdb.org/t/p/w500/cHcG6wXRPjIbeUqydKdG7r0oMmc.jpg", Chainsaw Man – Le Film : L'arc de Reze
 https://1a-1791.com/video/fwe2/85/s8/2/u/Q/x/G/uQxGz.aaa.mp4
+
 
 
 
