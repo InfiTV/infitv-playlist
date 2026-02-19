@@ -1,5 +1,14 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="Films" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/qozUrQZwmsTEFfLziB6r6Swxdb0.jpg", Kaamelott : Deuxième volet (Partie 1)
+https://moov265724.moovtop.fr/files/aa/FaRNmYuKiCnpO3ZfMeCRvMfuYYclkvP0GGN.m3u8
+
+#EXTINF:-1 group-title="Films" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/4mcovnajaLoy7dbv5arykJjDFFC.jpg", Kaamelott : Premier volet
+https://moo265724.moovbob.fr/files/aa/gfJU4Oc3MpFoAFXSLF4u4gfKBhgZapLqEvk.m3u8
+
+#EXTINF:-1 group-title="Films" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/jKYHuENFUXYDAkOQOlN7RRzMowO.jpg", Marcel et Monsieur Pagnol
+https://moo265724.moovbob.fr/files/aa/BxfuhZgtcntxrrRKtEov2rcBAtv7g3cRBsm.m3u8
+
 #EXTINF:-1 group-title="Films" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/fk5igdZhR9p3N9t9Y7zM6UX2XOJ.jpg", Reconnu coupable
 https://moo265724.moovbob.fr/files/aa/hEEs86OYjNw56xzXS6O1b6IzanHmceTuTxW.m3u8
 
@@ -371,6 +380,7 @@ ANIME
 https://1a-1791.com/video/fww1/1a/s8/2/a/2/p/M/a2pMz.aaa.mp4
 #EXTINF:-1 group-title="Films" tvg-logo="https://image.tmdb.org/t/p/w500/cHcG6wXRPjIbeUqydKdG7r0oMmc.jpg", Chainsaw Man – Le Film : L'arc de Reze
 https://1a-1791.com/video/fwe2/85/s8/2/u/Q/x/G/uQxGz.aaa.mp4
+
 
 
 
