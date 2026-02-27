@@ -1,5 +1,17 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="Films" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/6S5lbHtWcMTMWbIiguqdCU0u1Cg.jpg", The Bluff
+https://moo265724.moovbob.fr/files/aa/xmP4jDeJ6jPl3zmw9hM2ymfqlnlvKF4i1Tm.m3u8
+
+#EXTINF:-1 group-title="Films" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/fvD0pqZtBLqLTgVdtJyXJubvNqK.jpg", American Sweatshop
+https://moo265724.moovbob.fr/files/aa/mTvBE7r2f6f74guzaiYHJ5lxXNirohPLblm.m3u8
+
+#EXTINF:-1 group-title="Films" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/2OywNIynSmztN8yiL4gCt7NewEc.jpg", Shelter
+https://moov265724.moovtop.fr/files/aa/TUN9VdK28AoicLs1HuorSlxM6tSIpezi9ms.m3u8
+
+#EXTINF:-1 group-title="Films" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/pZRZU9OjUtRbemQnEvsLlLW5SvM.jpg", Yoroï
+https://moo265724.moovbob.fr/files/aa/h4mYlhOpbYutf8ERFX8trhXUZVkjnXdE2zD.m3u8
+
 #EXTINF:-1 group-title="Films" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/qozUrQZwmsTEFfLziB6r6Swxdb0.jpg", Kaamelott : Deuxième volet (Partie 1)
 https://moov265724.moovtop.fr/files/aa/FaRNmYuKiCnpO3ZfMeCRvMfuYYclkvP0GGN.m3u8
 
@@ -380,6 +392,7 @@ ANIME
 https://1a-1791.com/video/fww1/1a/s8/2/a/2/p/M/a2pMz.aaa.mp4
 #EXTINF:-1 group-title="Films" tvg-logo="https://image.tmdb.org/t/p/w500/cHcG6wXRPjIbeUqydKdG7r0oMmc.jpg", Chainsaw Man – Le Film : L'arc de Reze
 https://1a-1791.com/video/fwe2/85/s8/2/u/Q/x/G/uQxGz.aaa.mp4
+
 
 
 
