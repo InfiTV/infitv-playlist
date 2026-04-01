@@ -1,5 +1,30 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="Films" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/j6Y7vqULt8tRlXVFXHK5aj3nCo4.jpg", Scream 7
+https://bram265724.bramtiv.com/files/aa/ktbVraC87Q1BpyoNW0qJsIaGmLL2N448xg3.m3u8
+
+AVATAR
+
+#EXTINF:-1 group-title="Films" tvg-logo="https://image.tmdb.org/t/p/w500/v5Y8pVwJK68SKQQ1GRbIB1hkPDy.jpg", Avatar
+https://1a-1791.com/video/fww1/0b/s8/2/C/2/k/G/C2kGz.aaa.mp4
+#EXTINF:-1 group-title="Films" tvg-logo="https://image.tmdb.org/t/p/w500/kQYx143yujkwyjJdZH2skOGeQfA.jpg", Avatar La Voie de l'eau
+https://moo265724.moovbob.fr/files/aa/mRFW3o1XkDDmjAIEzmjnBqFBC2T4cwhyoXv.m3u8
+#EXTINF:-1 group-title="Films" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/5eATVqK2WVQi0D3wjzM5OP8EqZv.jpg", Avatar De feu et de cendres
+https://moov265724.moovtop.fr/files/aa/1YfYWOXz5xhPtbHa6tbQzPGwsxrhijhkhxi.m3u8
+
+
+#EXTINF:-1 group-title="Films" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/umBTqmDFpXhSbmxL0ghM3pu0lJt.jpg", The Final Run
+https://moo265724.moovbob.fr/files/aa/2lYX7kNBVZ0BCcMPoYPhTKUQhjBmzhICDHA.m3u8
+
+#EXTINF:-1 group-title="Films" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/hqZFvDYiCKOXbfSZuIEJUuQW29n.jpg", Ghost in the Shell
+https://moo265724.moovbob.fr/files/aa/8pEQbTtdVGmh0dSU9ldQHaA31gspoWCwlgn.m3u8
+
+#EXTINF:-1 group-title="Films" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/fmimhXqKUmpwaOrYS2TAcEWvcMv.jpg", Mike & Nick & Nick & Alice
+https://moo265724.moovbob.fr/files/aa/9qIjyKsRSZjhfHJnp5oEKls01TP58ibiJUB.m3u8
+
+#EXTINF:-1 group-title="Films" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/2m5XLGvDFFbdC9A8Tf60aWa9lMS.jpg", L'ultime Héritier
+https://moov265724.moovtop.fr/files/aa/U0XcgrgztKWQDxHH3CvbLZkzjLEk1sHWtE8.m3u8
+
 #EXTINF:-1 group-title="Films" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/tHdBpAOJlX4EgrU2rvOUwP4JFMY.jpg", Peaky Blinders L'Immortel
 https://moov265724.moovtop.fr/files/aa/PlivAU2eVpxr4TifZ1O7smS9Sa3fJevzzO5.m3u8
 
@@ -279,17 +304,6 @@ https://1a-1791.com/video/fwe2/2e/s8/2/8/X/y/z/8Xyzz.aaa.mp4
 https://vz-86ac969b-6d3.b-cdn.net/2539b8f9-93d4-4417-8855-229558687dcc/playlist.m3u8
 #EXTINF:-1 group-title="Films" tvg-logo="https://media.themoviedb.org/t/p/original/bkLaI0JqXb1lRqGti0zGgUMb1Uk.jpg", Insaisissables 3
 https://bram102764.bramtiv.com/files/aa/sya4fg8WhxD8yBGufFR1PnVdc2GGWHupfEu.m3u8
-
-
-
-
-
-AVATAR
-
-#EXTINF:-1 group-title="Films" tvg-logo="https://image.tmdb.org/t/p/w500/v5Y8pVwJK68SKQQ1GRbIB1hkPDy.jpg", Avatar
-https://1a-1791.com/video/fww1/0b/s8/2/C/2/k/G/C2kGz.aaa.mp4
-#EXTINF:-1 group-title="Films" tvg-logo="https://image.tmdb.org/t/p/w500/kQYx143yujkwyjJdZH2skOGeQfA.jpg", Avatar : La Voie de l'eau
-https://vz-86ac969b-6d3.b-cdn.net/db0d4901-f43b-4077-9d16-6bd7e23bf2f0/playlist.m3u8
 
 
 RUNNING MAN
