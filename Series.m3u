@@ -1,6 +1,13 @@
 #EXTM3U
 
 series
+THE BOYS
+
+#EXTINF:-1 group-title="Saison 1" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/4Tw8TB9ikrcgzJgR0LOvgfnXD74.jpg", The Boys S01E01
+https://edge1-waw-sprintcdn.r66nv9ed.com/hls2/04/10773/,2mew5tsrqyr9_h,lang/fre/2mew5tsrqyr9_fre,lang/eng/2mew5tsrqyr9_eng,.urlset/master.m3u8?t=a_OELCZPbjZAKPl6QJQiIRwWXafs9PQ7Ksx3ejNHmws&s=1777221644&e=10800&f=53869835&srv=1075&asn=3215&sp=4000&p=0&fr=2mew5tsrqyr9
+
+
+series
 REACHER
 
 #EXTINF:-1 group-title="Saison 1" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/31GlRQMiDunO8cl3NxTz34U64rf.jpg", Reacher S01E01
