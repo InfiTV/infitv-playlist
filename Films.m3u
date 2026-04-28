@@ -1,5 +1,11 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="Films" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/ipTXhWCJgeg5RN0CpmFZYDzOzQi.jpg", Wardriver
+https://moov265724.moovtop.fr/files/aa/7t2KDUfitu8JaVAYwcFoAZCWBeS0ji9rMcb.m3u8
+
+#EXTINF:-1 group-title="Films" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/tWmEsB3MtN7RfdXphzghC8B3ahX.jpg", Jumpers
+https://bram265724.bramtiv.com/files/aa/RBvQKemmS1PMvy4jkztmpAoLtY9gqrXi3s8.m3u8
+
 #EXTINF:-1 group-title="Films" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/gyc0CMzFS91ZtXyhPcw7mE60v6Y.jpg", They Will Kill You
 https://moo265724.moovbob.fr/files/aa/rzYdCpJ7GnjwLOyTlwdKM8yqbVGxgKAHjzU.m3u8
 
