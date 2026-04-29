@@ -4,14 +4,17 @@ series
 THE BOYS
 
 #EXTINF:-1 group-title="Saison 1" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/4Tw8TB9ikrcgzJgR0LOvgfnXD74.jpg", The Boys S01E01
-https://edge1-waw-sprintcdn.r66nv9ed.com/hls2/04/10773/,2mew5tsrqyr9_h,lang/fre/2mew5tsrqyr9_fre,lang/eng/2mew5tsrqyr9_eng,.urlset/master.m3u8?t=a_OELCZPbjZAKPl6QJQiIRwWXafs9PQ7Ksx3ejNHmws&s=1777221644&e=10800&f=53869835&srv=1075&asn=3215&sp=4000&p=0&fr=2mew5tsrqyr9
+https://api.nakios.fit/api/sources/proxy?url=https%3A%2F%2Fzebi.xalaflix.design%2Ftv%2F76479%2FS1%2FE1%2Fpremium-fdnflg%2Fmaster.m3u8&s=ec35f04e878e
 #EXTINF:-1 group-title="Saison 1" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/4Tw8TB9ikrcgzJgR0LOvgfnXD74.jpg", The Boys S01E02
-https://edge1-madrid-sprintcdn.r66nv9ed.com/hls2/04/10003/tmxotraazeh7_h/master.m3u8?t=hlQ5sfLM_1pSqGWzZqIeruYUZbw3W4JmQzTZvlVC8DM&s=1777223671&e=10800&f=50015150&srv=1050&asn=3215&sp=4000&p=0
+https://api.nakios.fit/api/sources/proxy?url=https%3A%2F%2Fzebi.xalaflix.design%2Ftv%2F76479%2FS1%2FE2%2Fpremium-a17zuk%2Fmaster.m3u8&s=976026b8d772
 #EXTINF:-1 group-title="Saison 1" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/4Tw8TB9ikrcgzJgR0LOvgfnXD74.jpg", The Boys S01E03
-https://zebi.xalaflix.design/tv/76479/S1/E3/premium-9j8old/master.m3u8&s=5388f84a95df
+https://api.nakios.fit/api/sources/proxy?url=https%3A%2F%2Fzebi.xalaflix.design%2Ftv%2F76479%2FS1%2FE3%2Fpremium-9j8old%2Fmaster.m3u8&s=c55539785aa3
 #EXTINF:-1 group-title="Saison 1" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/4Tw8TB9ikrcgzJgR0LOvgfnXD74.jpg", The Boys S01E04
-https://zebi.xalaflix.design/tv/76479/S1/E4/premium-ju8yrh/master.m3u8&s=9b1a0e7f8361
+https://api.nakios.fit/api/sources/proxy?url=https%3A%2F%2Fzebi.xalaflix.design%2Ftv%2F76479%2FS1%2FE4%2Fpremium-ju8yrh%2Fmaster.m3u8&s=65848027b3b4
 #EXTINF:-1 group-title="Saison 1" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/4Tw8TB9ikrcgzJgR0LOvgfnXD74.jpg", The Boys S01E05
+https://api.nakios.fit/api/sources/proxy?url=https%3A%2F%2Fzebi.xalaflix.design%2Ftv%2F76479%2FS1%2FE5%2Fpremium-7xswkz%2Fmaster.m3u8&s=4e91abaa4d06
+
+
 
 series
 REACHER
