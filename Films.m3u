@@ -1,5 +1,53 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="Films" tvg-logo="https://image.tmdb.org/t/p/w780/lTXjPswcvDIqI72m4nuwEg12oPI.jpg",	Coexister
+https://1a-1791.com/video/fww1/4a/s8/2/q/0/L/F/q0LFz.aaa.mp4
+
+#EXTINF:-1 group-title="Films" tvg-logo="https://image.tmdb.org/t/p/w780/9Dn0gTnPoNgI4DBrVkwNklWF5XD.jpg",	Le Roi lion 3 Hakuna matata
+https://1a-1791.com/video/fww1/4c/s8/2/W/T/n/d/WTndA.aaa.mp4
+
+#EXTINF:-1 group-title="Films" tvg-logo="https://image.tmdb.org/t/p/w780/k3bXkFnSdEeQa5WcK1R1tfDKcDp.jpg",	Le Roi lion 2 LHonneur de la tribu
+https://1a-1791.com/video/fww1/d5/s8/2/G/V/n/d/GVndA.aaa.mp4
+
+#EXTINF:-1 group-title="Films" tvg-logo="https://image.tmdb.org/t/p/w780/n6UChiAOSTHGih2FBactLjA4Cdt.jpg",	Le Roi lion
+https://1a-1791.com/video/fww1/e9/s8/2/y/Q/k/d/yQkdA.aaa.mp4
+
+#EXTINF:-1 group-title="Films" tvg-logo="https://image.tmdb.org/t/p/w780/39dDC31W3ylY2kFgNx5RhnkZlYM.jpg",	Ravage
+https://1a-1791.com/video/fwe2/8e/s8/2/m/Y/f/d/mYfdA.aaa.mp4
+
+#EXTINF:-1 group-title="Films" tvg-logo="https://image.tmdb.org/t/p/w780/cM8KCuWsCu02JwEug0ilGJJ7wBU.jpg", The Kissing Booth 3
+https://1a-1791.com/video/fww1/8e/s8/2/4/Z/k/d/4ZkdA.aaa.mp4
+
+#EXTINF:-1 group-title="Films" tvg-logo="https://image.tmdb.org/t/p/w780/fkzXKpj6WFoF6Z291apAlMP64u0.jpg", The Kissing Booth 2
+https://1a-1791.com/video/fwe2/23/s8/2/I/Y/k/d/IYkdA.aaa.mp4
+
+#EXTINF:-1 group-title="Films" tvg-logo="https://image.tmdb.org/t/p/w780/d8dK08TThUbIHqCaWcGvzpUvGNq.jpg", The Kissing Booth
+https://1a-1791.com/video/fww1/82/s8/2/8/G/d/d/8GddA.aaa.mp4
+
+#EXTINF:-1 group-title="Films" tvg-logo="https://image.tmdb.org/t/p/w780/3XriEpTdnplQRzyphAC0cu3emns.jpg", Whiplash
+https://1a-1791.com/video/fww1/19/s8/2/4/F/H/d/4FHdA.aaa.mp4
+
+#EXTINF:-1 group-title="Films" tvg-logo="https://image.tmdb.org/t/p/w780/AtQ28K2mTbVsiECogXENQ8DxGbm.jpg", Le Challenge
+https://1a-1791.com/video/fwe2/38/s8/2/u/R/O/d/uROdA.aaa.mp4
+
+#EXTINF:-1 group-title="Films" tvg-logo="https://image.tmdb.org/t/p/w780/k37axEHszFP9WOVvbozxF0r7X7g.jpg", Le Flingueur
+https://1a-1791.com/video/fww1/33/s8/2/g/S/O/d/gSOdA.aaa.mp4
+
+#EXTINF:-1 group-title="Films" tvg-logo="https://image.tmdb.org/t/p/w780/uvygZlicNXBIpklnLuAbgwkMMSL.jpg", Un mariage sans fin
+https://1a-1791.com/video/fwe2/0a/s8/2/A/h/b/e/AhbeA.aaa.mp4
+
+#EXTINF:-1 group-title="Films" tvg-logo="https://image.tmdb.org/t/p/w780/hLKoSzjOPC8tQaA2AmFvDjBbKTw.jpg", M. Peabody et Sherman Les voyages dans le temps
+https://1a-1791.com/video/fww1/4f/s8/2/G/h/C/e/GhCeA.aaa.mp4
+
+#EXTINF:-1 group-title="Films" tvg-logo="https://image.tmdb.org/t/p/w780/fOxsQAg1RmICNrh0gdI27UP2DVD.jpg", Mercato
+https://1a-1791.com/video/fww1/aa/s8/2/e/i/C/e/eiCeA.aaa.mp4
+
+#EXTINF:-1 group-title="Films" tvg-logo="https://image.tmdb.org/t/p/w780/pipDbSUyH0xABjlKJyPaPSJ1N1I.jpg", La Fée Clochette
+https://1a-1791.com/video/fww1/1f/s8/2/w/N/B/f/wNBfA.aaa.mp4
+
+#EXTINF:-1 group-title="Films" tvg-logo="https://image.tmdb.org/t/p/w780/4TBdF7nFw2aKNM0gPOlDNq3v3se.jpg", Pulp Fiction
+https://1a-1791.com/video/fww1/9a/s8/2/q/c/H/f/qcHfA.aaa.mp4
+
 #EXTINF:-1 group-title="Films" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/d3U7rzj3ReOjpxNBd2n09WAxSLH.jpg", Le Sifflet
 https://cdn.fastflux.xyz/movies/Whistle-2026.mp4?t=1
 
