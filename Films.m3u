@@ -1,5 +1,11 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="Films" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/yPkeeBEJdQO85AGCwi2XEIfMOxa.jpg", Mortal Kombat II
+https://bram265724.bramtiv.com/files/aa/6NLH6Ra2NhRztOTZO7kWj3gGJCWVRny4fii.m3u8
+
+#EXTINF:-1 group-title="Films" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/ybrX94xQm8lXYpZAPRmwD9iIbWP.jpg", Mortal Kombat
+https://moov265724.moovtop.fr/files/aa/nx0osnoQsA0KSCDga4ONk04U0KPdzpGu55f.m3u8
+
 #EXTINF:-1 group-title="Films" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/rJNHFa07Id2ylQgw0ttzGwpeczE.jpg", Marsupilami
 https://moov265724.moovtop.fr/files/aa/acbl1UGh6cMlBEGoibBp8yHDBDXIU2m6eAD.m3u8
 
