@@ -1,19 +1,61 @@
 #EXTM3U
 
+
 series
-THE BOYS
+Mandalorian
 
-#EXTINF:-1 group-title="Saison 1" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/4Tw8TB9ikrcgzJgR0LOvgfnXD74.jpg", The Boys S01E01
-https://api.nakios.fit/api/sources/proxy?url=https%3A%2F%2Fzebi.xalaflix.design%2Ftv%2F76479%2FS1%2FE1%2Fpremium-fdnflg%2Fmaster.m3u8&s=ec35f04e878e
-#EXTINF:-1 group-title="Saison 1" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/4Tw8TB9ikrcgzJgR0LOvgfnXD74.jpg", The Boys S01E02
-https://api.nakios.fit/api/sources/proxy?url=https%3A%2F%2Fzebi.xalaflix.design%2Ftv%2F76479%2FS1%2FE2%2Fpremium-a17zuk%2Fmaster.m3u8&s=976026b8d772
-#EXTINF:-1 group-title="Saison 1" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/4Tw8TB9ikrcgzJgR0LOvgfnXD74.jpg", The Boys S01E03
-https://api.nakios.fit/api/sources/proxy?url=https%3A%2F%2Fzebi.xalaflix.design%2Ftv%2F76479%2FS1%2FE3%2Fpremium-9j8old%2Fmaster.m3u8&s=c55539785aa3
-#EXTINF:-1 group-title="Saison 1" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/4Tw8TB9ikrcgzJgR0LOvgfnXD74.jpg", The Boys S01E04
-https://api.nakios.fit/api/sources/proxy?url=https%3A%2F%2Fzebi.xalaflix.design%2Ftv%2F76479%2FS1%2FE4%2Fpremium-ju8yrh%2Fmaster.m3u8&s=65848027b3b4
-#EXTINF:-1 group-title="Saison 1" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/4Tw8TB9ikrcgzJgR0LOvgfnXD74.jpg", The Boys S01E05
-https://api.nakios.fit/api/sources/proxy?url=https%3A%2F%2Fzebi.xalaflix.design%2Ftv%2F76479%2FS1%2FE5%2Fpremium-7xswkz%2Fmaster.m3u8&s=4e91abaa4d06
+#EXTINF:-1 group-title="Saison 1 The Mandalorian" tvg-logo="https://image.tmdb.org/t/p/w780/s8lHYTNYM919rDFvMs33tOeMbYf.jpg", The Mandalorian S01E01
+https://hugh.cdn.rumble.cloud/video/fww1/66/s8/2/A/J/k/r/AJkrA.aaa.mp4
+#EXTINF:-1 group-title="Saison 1 The Mandalorian" tvg-logo="https://image.tmdb.org/t/p/w780/s8lHYTNYM919rDFvMs33tOeMbYf.jpg", The Mandalorian S01E02
+https://hugh.cdn.rumble.cloud/video/fww1/b5/s8/2/I/J/k/r/IJkrA.aaa.mp4
+#EXTINF:-1 group-title="Saison 1 The Mandalorian" tvg-logo="https://image.tmdb.org/t/p/w780/s8lHYTNYM919rDFvMs33tOeMbYf.jpg", The Mandalorian S01E03
+https://hugh.cdn.rumble.cloud/video/fwe2/af/s8/2/Y/J/k/r/YJkrA.aaa.mp4
+#EXTINF:-1 group-title="Saison 1 The Mandalorian" tvg-logo="https://image.tmdb.org/t/p/w780/s8lHYTNYM919rDFvMs33tOeMbYf.jpg", The Mandalorian S01E04
+https://hugh.cdn.rumble.cloud/video/fww1/a3/s8/2/c/K/k/r/cKkrA.aaa.mp4
+#EXTINF:-1 group-title="Saison 1 The Mandalorian" tvg-logo="https://image.tmdb.org/t/p/w780/s8lHYTNYM919rDFvMs33tOeMbYf.jpg", The Mandalorian S01E05
+https://hugh.cdn.rumble.cloud/video/fwe2/78/s8/2/y/K/k/r/yKkrA.aaa.mp4
+#EXTINF:-1 group-title="Saison 1 The Mandalorian" tvg-logo="https://image.tmdb.org/t/p/w780/s8lHYTNYM919rDFvMs33tOeMbYf.jpg", The Mandalorian S01E06
+https://hugh.cdn.rumble.cloud/video/fww1/f5/s8/2/Q/K/k/r/QKkrA.aaa.mp4
+#EXTINF:-1 group-title="Saison 1 The Mandalorian" tvg-logo="https://image.tmdb.org/t/p/w780/s8lHYTNYM919rDFvMs33tOeMbYf.jpg", The Mandalorian S01E07
+https://hugh.cdn.rumble.cloud/video/fwe2/d6/s8/2/2/K/k/r/2KkrA.aaa.mp4
+#EXTINF:-1 group-title="Saison 1 The Mandalorian" tvg-logo="https://image.tmdb.org/t/p/w780/s8lHYTNYM919rDFvMs33tOeMbYf.jpg", The Mandalorian S01E08
+https://hugh.cdn.rumble.cloud/video/fwe2/d6/s8/2/m/L/k/r/mLkrA.aaa.mp4
 
+
+#EXTINF:-1 group-title="Saison 2 The Mandalorian" tvg-logo="https://image.tmdb.org/t/p/w780/s8lHYTNYM919rDFvMs33tOeMbYf.jpg", The Mandalorian S02E01
+https://hugh.cdn.rumble.cloud/video/fww1/c7/s8/2/y/L/k/r/yLkrA.aaa.mp4
+#EXTINF:-1 group-title="Saison 2 The Mandalorian" tvg-logo="https://image.tmdb.org/t/p/w780/s8lHYTNYM919rDFvMs33tOeMbYf.jpg", The Mandalorian S02E02
+https://hugh.cdn.rumble.cloud/video/fww1/75/s8/2/M/L/k/r/MLkrA.aaa.mp4
+#EXTINF:-1 group-title="Saison 2 The Mandalorian" tvg-logo="https://image.tmdb.org/t/p/w780/s8lHYTNYM919rDFvMs33tOeMbYf.jpg", The Mandalorian S02E03
+https://hugh.cdn.rumble.cloud/video/fwe2/dc/s8/2/Y/L/k/r/YLkrA.aaa.mp4
+#EXTINF:-1 group-title="Saison 2 The Mandalorian" tvg-logo="https://image.tmdb.org/t/p/w780/s8lHYTNYM919rDFvMs33tOeMbYf.jpg", The Mandalorian S02E04
+https://hugh.cdn.rumble.cloud/video/fwe2/28/s8/2/a/M/k/r/aMkrA.aaa.mp4
+#EXTINF:-1 group-title="Saison 2 The Mandalorian" tvg-logo="https://image.tmdb.org/t/p/w780/s8lHYTNYM919rDFvMs33tOeMbYf.jpg", The Mandalorian S02E05
+https://hugh.cdn.rumble.cloud/video/fwe2/94/s8/2/i/M/k/r/iMkrA.aaa.mp4
+#EXTINF:-1 group-title="Saison 2 The Mandalorian" tvg-logo="https://image.tmdb.org/t/p/w780/s8lHYTNYM919rDFvMs33tOeMbYf.jpg", The Mandalorian S02E06
+https://hugh.cdn.rumble.cloud/video/fww1/28/s8/2/C/M/k/r/CMkrA.aaa.mp4
+#EXTINF:-1 group-title="Saison 2 The Mandalorian" tvg-logo="https://image.tmdb.org/t/p/w780/s8lHYTNYM919rDFvMs33tOeMbYf.jpg", The Mandalorian S02E07
+https://hugh.cdn.rumble.cloud/video/fww1/2c/s8/2/Q/M/k/r/QMkrA.aaa.mp4
+#EXTINF:-1 group-title="Saison 2 The Mandalorian" tvg-logo="https://image.tmdb.org/t/p/w780/s8lHYTNYM919rDFvMs33tOeMbYf.jpg", The Mandalorian S02E08
+https://hugh.cdn.rumble.cloud/video/fww1/ac/s8/2/0/M/k/r/0MkrA.aaa.mp4
+
+
+#EXTINF:-1 group-title="Saison 3 The Mandalorian" tvg-logo="https://image.tmdb.org/t/p/w780/s8lHYTNYM919rDFvMs33tOeMbYf.jpg", The Mandalorian S03E01
+https://hugh.cdn.rumble.cloud/video/fwe2/fd/s8/2/-/M/k/r/-MkrA.aaa.mp4
+#EXTINF:-1 group-title="Saison 3 The Mandalorian" tvg-logo="https://image.tmdb.org/t/p/w780/s8lHYTNYM919rDFvMs33tOeMbYf.jpg", The Mandalorian S03E02
+https://hugh.cdn.rumble.cloud/video/fww1/ad/s8/2/E/N/k/r/ENkrA.aaa.mp4
+#EXTINF:-1 group-title="Saison 3 The Mandalorian" tvg-logo="https://image.tmdb.org/t/p/w780/s8lHYTNYM919rDFvMs33tOeMbYf.jpg", The Mandalorian S03E03
+https://hugh.cdn.rumble.cloud/video/fwe2/a5/s8/2/U/N/k/r/UNkrA.aaa.mp4
+#EXTINF:-1 group-title="Saison 3 The Mandalorian" tvg-logo="https://image.tmdb.org/t/p/w780/s8lHYTNYM919rDFvMs33tOeMbYf.jpg", The Mandalorian S03E04
+https://hugh.cdn.rumble.cloud/video/fww1/8f/s8/2/-/N/k/r/-NkrA.aaa.mp4
+#EXTINF:-1 group-title="Saison 3 The Mandalorian" tvg-logo="https://image.tmdb.org/t/p/w780/s8lHYTNYM919rDFvMs33tOeMbYf.jpg", The Mandalorian S03E05
+https://hugh.cdn.rumble.cloud/video/fww1/2f/s8/2/U/O/k/r/UOkrA.aaa.mp4
+#EXTINF:-1 group-title="Saison 3 The Mandalorian" tvg-logo="https://image.tmdb.org/t/p/w780/s8lHYTNYM919rDFvMs33tOeMbYf.jpg", The Mandalorian S03E06
+https://hugh.cdn.rumble.cloud/video/fwe2/f7/s8/2/-/O/k/r/-OkrA.aaa.mp4
+#EXTINF:-1 group-title="Saison 3 The Mandalorian" tvg-logo="https://image.tmdb.org/t/p/w780/s8lHYTNYM919rDFvMs33tOeMbYf.jpg", The Mandalorian S03E07
+https://hugh.cdn.rumble.cloud/video/fwe2/51/s8/2/k/P/k/r/kPkrA.aaa.mp4
+#EXTINF:-1 group-title="Saison 3 The Mandalorian" tvg-logo="https://image.tmdb.org/t/p/w780/s8lHYTNYM919rDFvMs33tOeMbYf.jpg", The Mandalorian S03E08
+https://hugh.cdn.rumble.cloud/video/fww1/56/s8/2/A/P/k/r/APkrA.aaa.mp4
 
 
 series
