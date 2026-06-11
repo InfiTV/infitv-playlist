@@ -3,6 +3,9 @@
 #EXTINF:-1 group-title="Films" tvg-logo="https://image.tmdb.org/t/p/w780/2sDgNilJGVFpl1x4DMzYHjk0L0f.jpg", Michael
 https://moo265724.moovbob.fr/files/aa/eaKLuMpmNvv0c0HHq9EHoOcryOUwmFjqXGO.m3u8
 
+#EXTINF:-1 group-title="Films" tvg-logo="https://cineregal.art/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw500%2FkNKUCNLu1lZDGAHOBEHxR6psYHx.jpg&w=384&q=75", l infiltree
+https://cdn.fastflux.xyz/movies/L-Infiltree-2026.mp4?t=1
+
 #EXTINF:-1 group-title="Films" tvg-logo="https://cineregal.art/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw500%2FkNKUCNLu1lZDGAHOBEHxR6psYHx.jpg&w=384&q=75", Iron Man
 https://cdn.fastflux.xyz/series/VF/Iron-Man/S01/iron-man-S01-E01.mp4?t=1
 
