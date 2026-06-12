@@ -11,7 +11,7 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/backu
 #EXTINF:-1 group-title="TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/France4-logo.svg/960px-France4-logo.svg.png",France 4
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-4.m3u8
 
-#EXTINF:-1group-title="TV"  tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/2/26/Logo_France_5.svg/1194px-Logo_France_5.svg.png",France 5
+#EXTINF:-1group-title="TV"  tvg-logo="https://upload.wikimedia.org/wikipedia/fr/2/26/Logo_France_5.svg",France 5
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/backup/france5.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/wgJTdGY/m6.png",M6
@@ -23,7 +23,7 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/arte/arte.m3u8
 #EXTINF:-1 group-title="TV" tvg-logo="https://www.pikpng.com/pngl/b/333-3332806_w9-logo-logo-w9-transparent-clipart.png",W9
 https://viamotionhsi.netplus.ch/live/eds/w9/browser-HLS8/w9.m3u8
 
-#EXTINF:-1 tvg-id="TMC.fr@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/54/TMC_logo.svg/512px-TMC_logo.svg.png" group-title="General",TMC HD (1080p)
+#EXTINF:-1 tvg-id="TMC.fr@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/a/a8/TMC_logo_2016.svg/1280px-TMC_logo_2016.svg.png" group-title="General",TMC HD (1080p)
 https://viamotionhsi.netplus.ch/live/eds/tmc/browser-HLS8/tmc.m3u8
 
 #EXTINF:-1 tvg-id="TFX.fr@SD" tvg-logo="https://i.imgur.com/d91GcVf.png" group-title="Undefined",TFX (1080p)
@@ -41,10 +41,10 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/cnew
 #EXTINF:-1 group-title="TV" tvg-logo="https://static1.ozap.com/articles/1/48/92/41/@/4507226-logo-de-france-info-580x326-1.png",France Info
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/franceinfo.m3u8
 
-#EXTINF:-1 tvg-id="T18.fr@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Logo_de_la_chaine_T18.svg/langfr-512px-Logo_de_la_chaine_T18.svg.png" group-title="General",T18 (1080p)
+#EXTINF:-1 tvg-id="T18.fr@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/Logo_de_la_cha%C3%AEne_T18.svg" group-title="General",T18 (1080p)
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/t18/t18-dm.m3u8
 
-#EXTINF:-1 tvg-id="NOVO19.fr@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Logo_NOVO19_-_2025.svg/langfr-512px-Logo_NOVO19_-_2025.svg.png" group-title="General",NOVO19 (720p)
+#EXTINF:-1 tvg-id="NOVO19.fr@HD" tvg-logo="https://photos.tf1.fr/480/270/vignette-paysage-chaine-77e3eb-5afaef-0@3x.jpg" group-title="General",NOVO19 (720p)
 https://viamotionhsi.netplus.ch/live/eds/novo19/browser-HLS8/novo19.m3u8
 
 #EXTINF:-1 tvg-id="TF1SeriesFilms.fr@SD" tvg-logo="https://i.imgur.com/4CJIDKQ.png" group-title="Movies",TF1 Series Films (1080p)
@@ -56,7 +56,7 @@ https://dshn8inoshngm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 #EXTINF:-1 group-title="TV" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/07/6ter.png/revision/latest?cb=20121211233128",6ter
 https://viamotionhsi.netplus.ch/live/eds/6ter/browser-HLS8/6ter.m3u8
 
-#EXTINF:-1 tvg-id="RMCStory.fr@SD" tvg-logo="https://i.postimg.cc/MpjZFqGF/rmcstory.png" group-title="Undefined",RMC Story (1080p)
+#EXTINF:-1 tvg-id="RMCStory.fr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/43/Logo_RMC_Story_2025.png/1280px-Logo_RMC_Story_2025.png" group-title="Undefined",RMC Story (1080p)
 https://viamotionhsi.netplus.ch/live/eds/numero23/browser-HLS8/numero23.m3u8
 
 #EXTINF:-1 tvg-id="RMCDecouverte.fr@SD" tvg-logo="https://images.sftcdn.net/images/t_app-icon-m/p/f732963f-edc2-45f1-a6f9-abe116aeda7d/3028171600/rmc-decouverte-logo" group-title="Undefined",RMC Decouverte (1080p)
