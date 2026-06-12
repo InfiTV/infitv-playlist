@@ -42,7 +42,7 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/cnew
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/franceinfo.m3u8
 
 #EXTINF:-1 tvg-id="T18.fr@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/Logo_de_la_cha%C3%AEne_T18.svg" group-title="General",T18 (1080p)
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/t18/t18-dm.m3u8
+https://live.eu-north-1b.cf.dmcdn.net/sec2(y-Mj4s42zm9rSP9CBSZ4aqRpZlgY0QUY29WVJSlL2FAMA4PbsavwBHCYHwJoH6_2bVjIk-ap8bqRVpQyS_oJeLnVv17XT8VClvI9_kpkMmnperAxcOXYFaWw_n8SsQmr)/dm/3/x9jhhyc/d/live-1080@60.m3u8#cell=lcf-eu-north-1b
 
 #EXTINF:-1 tvg-id="NOVO19.fr@HD" tvg-logo="https://photos.tf1.fr/480/270/vignette-paysage-chaine-77e3eb-5afaef-0@3x.jpg" group-title="General",NOVO19 (720p)
 https://viamotionhsi.netplus.ch/live/eds/novo19/browser-HLS8/novo19.m3u8
