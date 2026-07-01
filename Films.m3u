@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="Films" tvg-logo="https://image.tmdb.org/t/p/w780/7kRYHH9H9PjBFwz1FprbHB2AAjI.jpg", Enola Holmes 3
+https://moo265724.moovbob.fr/files/aa/PpiWXv2gnowVdIRacENtpLz2WGqu1oLKwwN.m3u8
+
 #EXTINF:-1 group-title="Films" tvg-logo="https://image.tmdb.org/t/p/w780/2sDgNilJGVFpl1x4DMzYHjk0L0f.jpg", Michael
 https://moo265724.moovbob.fr/files/aa/eaKLuMpmNvv0c0HHq9EHoOcryOUwmFjqXGO.m3u8
 
@@ -66,6 +69,9 @@ https://moo265724.moovbob.fr/files/aa/SIlFWNifDwXUtRdCiBlglulcSCurcNo8LRE.m3u8
 #EXTINF:-1 group-title="Films" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/rO9L4pXE0ykAKGHOTPNGXcvh450.jpg", WHO
 https://moo265724.moovbob.fr/files/aa/htSi9K2nRLMvmiDVTN60cG1o5iKABKpyjgK.m3u8
 
+#EXTINF:-1 group-title="Films" tvg-logo="https://www.themoviedb.org/t/p/w780/tegBpjM5ODoYoM1NjaiHVLEA0QM.jpg", Enola Holmes 2
+https://moo265724.moovbob.fr/files/aa/a4cgSdjNGyNYjUtAYEyu0f6nK6R8Pnfto8l.m3u8
+
 #EXTINF:-1 group-title="Films" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/6iYLH0TjqCyEkCYadpLUMHr9S8J.jpg", Nuremberg
 https://moo265724.moovbob.fr/files/aa/peazkTr3zC7uDeGToeP7z3uRhVlIdITGiLUU.m3u8
 
@@ -101,6 +107,9 @@ https://moo265724.moovbob.fr/files/aa/oOFkaSVqp5XZ0ZgqrTLGDoAsvjuk74QeVRe.m3u8
 
 #EXTINF:-1 group-title="Films" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/wkI57tUgF4azrXy4QURO0diuDxD.jpg", Ladies First
 https://moo265724.moovbob.fr/files/aa/6twqV7grC1hlmS3mCCBQD5vF1H91nRq9mBb.m3u8
+
+#EXTINF:-1 group-title="Films" tvg-logo="https://www.themoviedb.org/t/p/w780/riYInlsq2kf1AWoGm80JQW5dLKp.jpg", Enola Holmes
+https://moo265724.moovbob.fr/files/aa/LU1XdDBhSUTnOJYjARHt5E0J8RZPHh8ZNHC.m3u8
 
 #EXTINF:-1 group-title="Films" tvg-logo="https://image.tmdb.org/t/p/w780/7uPGS5CgvIjDcFUhw9HB9qYeDXf.jpg", Spider-Man New Generation
 https://1a-1791.com/video/fww1/4e/s8/2/8/B/t/f/8Btfz.aaa.mp4
