@@ -296,3 +296,17 @@ https://lecteur1.xtremestream.xyz/player/xs1.php?data=e2ef524fbf3d9fe611d5a8e90f
 https://lecteur1.xtremestream.xyz/player/xs1.php?data=92cc227532d17e56e07902b254dfad10&q=360
 #EXTINF:-1 group-title="Films" tvg-logo="https://image.tmdb.org/t/p/w780/fSyx6I8PVT91d6LgNReYLRyDt0e.jpg", Monster High - La grande barrière des frayeurs
 https://lecteur1.xtremestream.xyz/player/xs1.php?data=f899139df5e1059396431415e770c6dd&q=360
+
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/htZuHIuG9ybcw6xkrWz4khZRBu0.jpg",Descendants Collection
+http://dummy-cover
+#EXTINF:-1 group-title="Films" tvg-logo="https://image.tmdb.org/t/p/w780/65DkgHPSLVjgr6IYkpY9Aqqqid5.jpg", Descendants
+https://lecteur1.xtremestream.xyz/player/xs1.php?data=37e7897f62e8d91b1ce60515829ca282&q=1080
+#EXTINF:-1 group-title="Films" tvg-logo="https://image.tmdb.org/t/p/w780/qoNlGfQmFZ37Gf5fRBaCTLlOZtx.jpg", Descendants 2
+https://1a-1791.com/video/fwe2/e9/s8/2/K/S/d/d/KSddA.aaa.mp4
+#EXTINF:-1 group-title="Films" tvg-logo="https://image.tmdb.org/t/p/w780/7IRy0iHdaS0JI3ng4ZYlk5gLSFn.jpg", Descendants 3
+https://lecteur1.xtremestream.xyz/player/xs1.php?data=96ea64f3a1aa2fd00c72faacf0cb8ac9&q=720
+#EXTINF:-1 group-title="Films" tvg-logo="https://image.tmdb.org/t/p/w780/nr3UnKDzU5G4tfj1FwbJpfhCmPa.jpg", Descendants - L’Ascension de Red
+https://lecteur1.xtremestream.xyz/player/xs1.php?data=d1fe173d08e959397adf34b1d77e88d7&q=720
+#EXTINF:-1 group-title="Films" tvg-logo="https://image.tmdb.org/t/p/w780/1uKv5lJjnJuN7Lhuv5322jQJnRg.jpg", Descendants - La Malédiction du Pays des Merveilles
+https://fra265724.fradov.com/files/aa/wMMdFfpmLVlOWBkve5K7MFTnG4FNM2CDMgi.m3u8
