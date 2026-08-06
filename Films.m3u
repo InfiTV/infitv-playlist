@@ -1,5 +1,23 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="Films" tvg-logo="https://image.tmdb.org/t/p/w780/ndDY118G0Xn6W8aKP3sLz0ESkGq.jpg", On l'appelait Robin des Bois
+https://fra265724.fradov.com/files/aa/iPUdf2DRvm6kwAsWnP4W9TZRwma2aUBurh6.m3u8
+
+#EXTINF:-1 group-title="Films" tvg-logo="https://image.tmdb.org/t/p/w780/uJCxYoJ45N7NId1JvnzrsScxesY.jpg", Cocorico
+https://1a-1791.com/video/fww1/39/s8/2/u/0/Y/_/u0Y_z.aaa.mp4
+
+#EXTINF:-1 group-title="Films" tvg-logo="https://image.tmdb.org/t/p/w780/3eZwrYd90t5kHLHfS0zxPWH1tWl.jpg", Cocorico 2
+https://of265724.ofbax.com/files/aa/OzCvyvI7I4sXZM9n3duuEIG7ARr9xqYvBzf.m3u8
+
+#EXTINF:-1 group-title="Films" tvg-logo="https://image.tmdb.org/t/p/w780/tMUsUuGaNTin1U8B9sVA54xz1dW.jpg", Wildcat
+https://fra265724.fradov.com/files/aa/b9tZi6G2bJgUXJDZCW6fi73JngyF9mbGWaC.m3u8
+
+#EXTINF:-1 group-title="Films" tvg-logo="https://image.tmdb.org/t/p/w780/bQuH4CVkdKoHtOksYu8q4g3nsNa.jpg", Holy Days
+https://vro265724.vrodaz.com/files/aa/iIibeO9BLGfrKy76mrUjGbg6Ei4CCKbhlTO.m3u8
+
+#EXTINF:-1 group-title="Films" tvg-logo="https://image.tmdb.org/t/p/w780/mBBBXseq4k4dI63k06XIrsc02j8.jpg", Gretel & Hansel
+https://vro265724.vrodaz.com/files/aa/OfW9GKAWKYHdPhNegINKen1S3ueHfcrIMea.m3u8
+
 #EXTINF:-1 group-title="Films" tvg-logo="https://image.tmdb.org/t/p/w780/gIComZ1TfZdWmuD4L4mJ8sEv0km.jpg", Scary Movie
 https://of265724.ofbax.com/files/aa/pfIzIfdZxa1Ggzo9scad7rXJ8TAwWa567Lj.m3u8
 
